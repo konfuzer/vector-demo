@@ -5,6 +5,7 @@ import "./style.css";
 import "./artwork.css";
 import "./catalog.css";
 import "./navigation.css";
+import "./responsive.css";
 createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
     <App />

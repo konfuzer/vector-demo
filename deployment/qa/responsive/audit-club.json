@@ -1,0 +1,1322 @@
+[
+  {
+    "name": "club",
+    "path": "/",
+    "width": 3840,
+    "height": 2160,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Занятия для детей",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/program/leadership",
+    "width": 3840,
+    "height": 2160,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Академия лидерства",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/apply",
+    "width": 3840,
+    "height": 2160,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Помогите подобрать занятие",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/requests",
+    "width": 3840,
+    "height": 2160,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Мои обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/about",
+    "width": 3840,
+    "height": 2160,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Как устроена запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/requests",
+    "width": 3840,
+    "height": 2160,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Обращения и запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/groups",
+    "width": 3840,
+    "height": 2160,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Группы и места",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/programs",
+    "width": 3840,
+    "height": 2160,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Программы Club",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/insights",
+    "width": 3840,
+    "height": 2160,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Итоги и сценарий",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/settings",
+    "width": 3840,
+    "height": 2160,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Режим работы",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/request/C-033",
+    "width": 3840,
+    "height": 2160,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Статус обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/",
+    "width": 1920,
+    "height": 1200,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Занятия для детей",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/program/leadership",
+    "width": 1920,
+    "height": 1200,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Академия лидерства",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/apply",
+    "width": 1920,
+    "height": 1200,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Помогите подобрать занятие",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/requests",
+    "width": 1920,
+    "height": 1200,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Мои обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/about",
+    "width": 1920,
+    "height": 1200,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Как устроена запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/requests",
+    "width": 1920,
+    "height": 1200,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Обращения и запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/groups",
+    "width": 1920,
+    "height": 1200,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Группы и места",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/programs",
+    "width": 1920,
+    "height": 1200,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Программы Club",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/insights",
+    "width": 1920,
+    "height": 1200,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Итоги и сценарий",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/settings",
+    "width": 1920,
+    "height": 1200,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Режим работы",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/request/C-033",
+    "width": 1920,
+    "height": 1200,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Статус обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/",
+    "width": 1366,
+    "height": 768,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Занятия для детей",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/program/leadership",
+    "width": 1366,
+    "height": 768,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Академия лидерства",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/apply",
+    "width": 1366,
+    "height": 768,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Помогите подобрать занятие",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/requests",
+    "width": 1366,
+    "height": 768,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Мои обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/about",
+    "width": 1366,
+    "height": 768,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Как устроена запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/requests",
+    "width": 1366,
+    "height": 768,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Обращения и запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/groups",
+    "width": 1366,
+    "height": 768,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Группы и места",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/programs",
+    "width": 1366,
+    "height": 768,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Программы Club",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/insights",
+    "width": 1366,
+    "height": 768,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Итоги и сценарий",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/settings",
+    "width": 1366,
+    "height": 768,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Режим работы",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/request/C-033",
+    "width": 1366,
+    "height": 768,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Статус обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/",
+    "width": 412,
+    "height": 915,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Занятия для детей",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/program/leadership",
+    "width": 412,
+    "height": 915,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Академия лидерства",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/apply",
+    "width": 412,
+    "height": 915,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Помогите подобрать занятие",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/requests",
+    "width": 412,
+    "height": 915,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Мои обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/about",
+    "width": 412,
+    "height": 915,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Как устроена запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/requests",
+    "width": 412,
+    "height": 915,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Обращения и запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/groups",
+    "width": 412,
+    "height": 915,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Группы и места",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/programs",
+    "width": 412,
+    "height": 915,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Программы Club",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/insights",
+    "width": 412,
+    "height": 915,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Итоги и сценарий",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/settings",
+    "width": 412,
+    "height": 915,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Режим работы",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/request/C-033",
+    "width": 412,
+    "height": 915,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Статус обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/",
+    "width": 3440,
+    "height": 1440,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Занятия для детей",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/program/leadership",
+    "width": 3440,
+    "height": 1440,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Академия лидерства",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/apply",
+    "width": 3440,
+    "height": 1440,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Помогите подобрать занятие",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/requests",
+    "width": 3440,
+    "height": 1440,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Мои обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/about",
+    "width": 3440,
+    "height": 1440,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Как устроена запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/requests",
+    "width": 3440,
+    "height": 1440,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Обращения и запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/groups",
+    "width": 3440,
+    "height": 1440,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Группы и места",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/programs",
+    "width": 3440,
+    "height": 1440,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Программы Club",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/insights",
+    "width": 3440,
+    "height": 1440,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Итоги и сценарий",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/settings",
+    "width": 3440,
+    "height": 1440,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Режим работы",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/request/C-033",
+    "width": 3440,
+    "height": 1440,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Статус обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/",
+    "width": 2560,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Занятия для детей",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/program/leadership",
+    "width": 2560,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Академия лидерства",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/apply",
+    "width": 2560,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Помогите подобрать занятие",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/requests",
+    "width": 2560,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Мои обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/about",
+    "width": 2560,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Как устроена запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/requests",
+    "width": 2560,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Обращения и запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/groups",
+    "width": 2560,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Группы и места",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/programs",
+    "width": 2560,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Программы Club",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/insights",
+    "width": 2560,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Итоги и сценарий",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/settings",
+    "width": 2560,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Режим работы",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/request/C-033",
+    "width": 2560,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Статус обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/",
+    "width": 1920,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Занятия для детей",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/program/leadership",
+    "width": 1920,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Академия лидерства",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/apply",
+    "width": 1920,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Помогите подобрать занятие",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/requests",
+    "width": 1920,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Мои обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/about",
+    "width": 1920,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Как устроена запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/requests",
+    "width": 1920,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Обращения и запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/groups",
+    "width": 1920,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Группы и места",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/programs",
+    "width": 1920,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Программы Club",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/insights",
+    "width": 1920,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Итоги и сценарий",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/settings",
+    "width": 1920,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Режим работы",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/request/C-033",
+    "width": 1920,
+    "height": 1080,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Статус обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/",
+    "width": 1280,
+    "height": 800,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Занятия для детей",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/program/leadership",
+    "width": 1280,
+    "height": 800,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Академия лидерства",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/apply",
+    "width": 1280,
+    "height": 800,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Помогите подобрать занятие",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/requests",
+    "width": 1280,
+    "height": 800,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Мои обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/about",
+    "width": 1280,
+    "height": 800,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Как устроена запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/requests",
+    "width": 1280,
+    "height": 800,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Обращения и запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/groups",
+    "width": 1280,
+    "height": 800,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Группы и места",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/programs",
+    "width": 1280,
+    "height": 800,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Программы Club",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/insights",
+    "width": 1280,
+    "height": 800,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Итоги и сценарий",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/settings",
+    "width": 1280,
+    "height": 800,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Режим работы",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/request/C-033",
+    "width": 1280,
+    "height": 800,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Статус обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/",
+    "width": 768,
+    "height": 1024,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Занятия для детей",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/program/leadership",
+    "width": 768,
+    "height": 1024,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Академия лидерства",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/apply",
+    "width": 768,
+    "height": 1024,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Помогите подобрать занятие",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/requests",
+    "width": 768,
+    "height": 1024,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Мои обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/about",
+    "width": 768,
+    "height": 1024,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Как устроена запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/requests",
+    "width": 768,
+    "height": 1024,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Обращения и запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/groups",
+    "width": 768,
+    "height": 1024,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Группы и места",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/programs",
+    "width": 768,
+    "height": 1024,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Программы Club",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/insights",
+    "width": 768,
+    "height": 1024,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Итоги и сценарий",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/settings",
+    "width": 768,
+    "height": 1024,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Режим работы",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/request/C-033",
+    "width": 768,
+    "height": 1024,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Статус обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/",
+    "width": 390,
+    "height": 844,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Занятия для детей",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/program/leadership",
+    "width": 390,
+    "height": 844,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Академия лидерства",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/apply",
+    "width": 390,
+    "height": 844,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Помогите подобрать занятие",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/requests",
+    "width": 390,
+    "height": 844,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Мои обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/about",
+    "width": 390,
+    "height": 844,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Как устроена запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/requests",
+    "width": 390,
+    "height": 844,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Обращения и запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/groups",
+    "width": 390,
+    "height": 844,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Группы и места",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/programs",
+    "width": 390,
+    "height": 844,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Программы Club",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/insights",
+    "width": 390,
+    "height": 844,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Итоги и сценарий",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/settings",
+    "width": 390,
+    "height": 844,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Режим работы",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/request/C-033",
+    "width": 390,
+    "height": 844,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Статус обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/",
+    "width": 320,
+    "height": 568,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Занятия для детей",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/program/leadership",
+    "width": 320,
+    "height": 568,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Академия лидерства",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/apply",
+    "width": 320,
+    "height": 568,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Помогите подобрать занятие",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/requests",
+    "width": 320,
+    "height": 568,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Мои обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/about",
+    "width": 320,
+    "height": 568,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Как устроена запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/requests",
+    "width": 320,
+    "height": 568,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Обращения и запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/groups",
+    "width": 320,
+    "height": 568,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Группы и места",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/programs",
+    "width": 320,
+    "height": 568,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Программы Club",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/insights",
+    "width": 320,
+    "height": 568,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Итоги и сценарий",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/settings",
+    "width": 320,
+    "height": 568,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Режим работы",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/request/C-033",
+    "width": 320,
+    "height": 568,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Статус обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/",
+    "width": 844,
+    "height": 390,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Занятия для детей",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/program/leadership",
+    "width": 844,
+    "height": 390,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Академия лидерства",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/apply",
+    "width": 844,
+    "height": 390,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Помогите подобрать занятие",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/requests",
+    "width": 844,
+    "height": 390,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Мои обращения",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/about",
+    "width": 844,
+    "height": 390,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Как устроена запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/requests",
+    "width": 844,
+    "height": 390,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Обращения и запись",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/groups",
+    "width": 844,
+    "height": 390,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Группы и места",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/programs",
+    "width": 844,
+    "height": 390,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Программы Club",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/insights",
+    "width": 844,
+    "height": 390,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Итоги и сценарий",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/admin/settings",
+    "width": 844,
+    "height": 390,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Режим работы",
+    "offenders": []
+  },
+  {
+    "name": "club",
+    "path": "/#/request/C-033",
+    "width": 844,
+    "height": 390,
+    "cardOverflow": 0,
+    "overflow": 0,
+    "title": "Статус обращения",
+    "offenders": []
+  }
+]

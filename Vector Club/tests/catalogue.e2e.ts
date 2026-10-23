@@ -4,7 +4,7 @@ const names=['Робототехника','Дизайн и анимация','Н
 const ids=['robotics','design','science','leadership','negotiation','creative','critical'];
 async function choose(page:Page,label:string,option:string){await page.getByRole('combobox',{name:label,exact:true}).click();await page.getByRole('option',{name:option,exact:true}).click();}
 async function stored(page:Page){return page.evaluate(k=>JSON.parse(localStorage.getItem(k)||'null'),key);}
-async function images(page:Page){await page.evaluate(()=>document.fonts.ready);await page.locator('img').evaluateAll(imgs=>Promise.all(imgs.map(i=>i.decode().catch(()=>{}))));}
+async function images(page:Page){await page.evaluate(()=>document.fonts.ready);await page.locator('img').evaluateAll(imgs=>{imgs.forEach(i=>i.loading="eager");return Promise.all(imgs.map(i=>i.decode().catch(()=>{})));});}
 
 test('семь карточек 3+4, происхождение, обложки, все страницы и возрастные фильтры',async({page})=>{
  const errors:string[]=[];page.on('pageerror',e=>errors.push(e.message));

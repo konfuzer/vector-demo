@@ -1,0 +1,47 @@
+body{min-width:320px}
+.page>*,.overview-main,.overview-side,.student-workspace,.editor-panel,.panel,.field{min-width:0}
+@media(min-width:1900px){.app-header{padding-inline:max(34px,calc((100vw - 1700px)/2 + 34px))}}
+@media(max-width:650px){
+ .app-header{position:relative;padding:10px 16px;gap:10px;max-width:100%}
+ .app-header nav{min-width:0;max-width:100%;flex:1 1 100%;margin:0}
+ .header-tools{width:100%;justify-content:flex-end;min-width:0;flex-wrap:wrap}
+ .header-select-trigger,.role-menu .header-select-trigger{min-height:40px;font-size:12px}
+ .header-select-popup{max-width:calc(100vw - 32px);min-width:min(238px,calc(100vw - 32px))}
+ .period-menu .header-select-popup{left:0;right:auto}
+ .header-select-popup [role=listbox]{max-height:min(340px,50dvh)}
+ .page-head{flex-wrap:wrap;min-height:0;align-items:flex-start;margin-bottom:20px;gap:14px}
+ .page-head h1{font-size:32px}
+ .metric-grid{grid-template-columns:minmax(0,1fr);gap:12px}
+ .metric{min-height:110px;padding:18px}
+ .metric strong{font-size:34px;overflow-wrap:anywhere}
+ .metric>span{font-size:15px}
+ .metric small{font-size:13px}
+ .direction-panel{display:block}
+ .direction-panel .direction{padding:20px 0;border-bottom:1px solid var(--line)}
+ .direction-panel>.button{width:100%;margin-top:16px}
+ .direction p{white-space:normal}
+ .direction-summary{flex-wrap:wrap}
+ .section-head{flex-wrap:wrap;gap:12px}
+ .field-control{flex-wrap:wrap}
+ .field-control>select{flex:1 1 100%}
+ .field-control>.assign-self{margin:0 0 8px}
+ .request-person,.student-title{flex-wrap:wrap}
+ .student-title>.button{margin-left:0}
+ .student-payment-summary{flex-wrap:wrap;gap:14px}
+ .table-scroll{max-width:100%;min-width:0;overscroll-behavior-x:contain}
+ .table-scroll table{min-width:540px}
+ .schedule-table{table-layout:auto}
+ .form-actions,.schedule-footer,.modal-actions{flex-wrap:wrap}
+ input,select,textarea{min-width:0;max-width:100%;font-size:16px}
+ .search{min-width:0;width:100%;max-width:100%;flex-basis:100%}
+ .table-tools>select{max-width:100%}
+ .modal{padding:18px;max-height:calc(100dvh - 24px);width:calc(100vw - 24px)}
+ .modal.wide,.csv-import-modal{width:calc(100vw - 24px)}
+ .detail-grid{grid-template-columns:minmax(0,1fr)}
+ .pager{flex-wrap:wrap}
+ .button{white-space:normal;min-height:44px;text-align:center}
+ .finance-summary>div{flex-wrap:wrap}
+ .student-workspace>.tabs{overflow-x:auto;flex-wrap:nowrap;max-width:100%}
+ .student-workspace>.tabs button{flex-shrink:0;min-height:44px}
+}
+@media(max-width:375px){.funnel-step button{width:38px;height:38px;font-size:20px}.funnel-step span{font-size:10px}.occupancy{gap:10px}.import-summary{grid-template-columns:1fr}.admin-overview-grid .shortcut{grid-template-columns:36px minmax(0,1fr) auto}.shortcut span{overflow-wrap:anywhere}.workspace-intro{padding:18px}.chart-tooltip{max-width:100%}}

@@ -1,0 +1,222 @@
+[
+  {
+    "width": 320,
+    "height": 568,
+    "name": "hub-guide"
+  },
+  {
+    "width": 320,
+    "height": 568,
+    "name": "club-assistant"
+  },
+  {
+    "width": 320,
+    "height": 568,
+    "name": "club-submitted"
+  },
+  {
+    "width": 320,
+    "height": 568,
+    "name": "club-editor"
+  },
+  {
+    "width": 320,
+    "height": 568,
+    "name": "club-settings"
+  },
+  {
+    "width": 320,
+    "height": 568,
+    "name": "flow-payment"
+  },
+  {
+    "width": 320,
+    "height": 568,
+    "name": "flow-role"
+  },
+  {
+    "width": 320,
+    "height": 568,
+    "name": "universe-editor"
+  },
+  {
+    "width": 320,
+    "height": 568,
+    "name": "universe-published"
+  },
+  {
+    "width": 320,
+    "height": 568,
+    "name": "universe-brief"
+  },
+  {
+    "width": 320,
+    "height": 568,
+    "name": "universe-exhibit"
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "name": "hub-guide"
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "name": "club-assistant"
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "name": "club-submitted"
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "name": "club-editor"
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "name": "club-settings"
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "name": "flow-payment"
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "name": "flow-role"
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "name": "universe-editor"
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "name": "universe-published"
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "name": "universe-brief"
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "name": "universe-exhibit"
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "name": "hub-guide"
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "name": "club-assistant"
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "name": "club-submitted"
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "name": "club-editor"
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "name": "club-settings"
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "name": "flow-payment"
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "name": "flow-role"
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "name": "universe-editor"
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "name": "universe-published"
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "name": "universe-brief"
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "name": "universe-exhibit"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "name": "hub-guide"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "name": "club-assistant"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "name": "club-submitted"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "name": "club-editor"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "name": "club-settings"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "name": "flow-payment"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "name": "flow-role"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "name": "universe-editor"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "name": "universe-published"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "name": "universe-brief"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "name": "universe-exhibit"
+  }
+]

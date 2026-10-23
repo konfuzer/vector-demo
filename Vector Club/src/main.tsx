@@ -6,4 +6,5 @@ import './styles.css';
 import './refinements.css';
 import './header.css';
 import './catalogue.css';
+import './responsive.css';
 createRoot(document.getElementById('root')!).render(<React.StrictMode><StoreProvider><App/></StoreProvider></React.StrictMode>);
