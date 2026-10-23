@@ -1,0 +1,65 @@
+{
+  "screens": 9,
+  "outputs": [
+    {
+      "file": "00-home.png",
+      "width": 1584,
+      "height": 993,
+      "bytes": 3695711
+    },
+    {
+      "file": "01-portfolio.png",
+      "width": 1584,
+      "height": 993,
+      "bytes": 2788619
+    },
+    {
+      "file": "02-school-projects.png",
+      "width": 1584,
+      "height": 993,
+      "bytes": 2881038
+    },
+    {
+      "file": "03-project-brief.png",
+      "width": 1584,
+      "height": 993,
+      "bytes": 2348455
+    },
+    {
+      "file": "04-add-work.png",
+      "width": 1584,
+      "height": 993,
+      "bytes": 1998967
+    },
+    {
+      "file": "05-exhibition.png",
+      "width": 1584,
+      "height": 993,
+      "bytes": 2960212
+    },
+    {
+      "file": "06-exhibition-work.png",
+      "width": 1584,
+      "height": 993,
+      "bytes": 2907789
+    },
+    {
+      "file": "07-parent-view.png",
+      "width": 1584,
+      "height": 993,
+      "bytes": 2769132
+    },
+    {
+      "file": "08-real-history-work.png",
+      "width": 1584,
+      "height": 993,
+      "bytes": 2059589
+    }
+  ],
+  "pdfPageInsertedWithoutRegeneration": true,
+  "pdfSha256": "b8b1aff3b81aaae2e5c7fb679e6eff4814b4faaa32f2b3f8d2f5e246271cbe25",
+  "pdfBytes": 57388824,
+  "namePolicy": "Use original name form; Portfolio middle dot name",
+  "visualInspection": "Final output images and overview visually inspected",
+  "notApplication": true
+}

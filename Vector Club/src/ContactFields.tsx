@@ -1,0 +1,11 @@
+import {Send,Phone,Mail} from 'lucide-react';
+import type {ContactChannel} from './domain';
+
+export const demoContacts:Record<ContactChannel,string>={telegram:'@demo_parent',max:'+7 000 000-00-00',phone:'+7 000 000-00-00',email:'parent@example.test'};
+type Props={channel:ContactChannel;setChannel:(channel:ContactChannel)=>void;contact:string;setContact:(value:string)=>void;callRequested:boolean;setCallRequested:(value:boolean)=>void};
+
+export function ContactFields({channel,setChannel,contact,setContact,callRequested,setCallRequested}:Props){
+ const labels={telegram:'Ваш Telegram',max:'Номер телефона в MAX',phone:'Номер телефона',email:'Электронная почта'};
+ const hints={telegram:'Укажите @username или номер телефона, связанный с Telegram.',max:'Укажите номер, по которому вас можно найти в MAX.',phone:'Администратор сможет позвонить по этому номеру.',email:'Администратор сможет ответить на этот адрес.'};
+ return <fieldset className="contact-fields span-two"><legend>Как с вами связаться?</legend><div className="contact-channels" role="group" aria-label="Способ связи">{([{id:'telegram',label:'Telegram',icon:<Send size={19}/>},{id:'max',label:'MAX',icon:<span className="max-icon" aria-hidden="true">М</span>},{id:'phone',label:'Телефон',icon:<Phone size={19}/>},{id:'email',label:'Email',icon:<Mail size={19}/>} ] as const).map(item=><button key={item.id} type="button" className={channel===item.id?'selected':''} aria-pressed={channel===item.id} onClick={()=>{setChannel(item.id);setContact(demoContacts[item.id]);if(item.id==='phone')setCallRequested(true);}}>{item.icon}<span>{item.label}</span></button>)}</div><label className="contact-address">{labels[channel]}<input aria-label="Контакт для ответа" required type={channel==='email'?'email':channel==='telegram'?'text':'tel'} inputMode={channel==='email'?'email':channel==='telegram'?'text':'tel'} autoComplete="off" maxLength={120} placeholder={demoContacts[channel]} value={contact} onChange={e=>setContact(e.target.value)}/></label><p className="contact-hint">{hints[channel]}</p>{channel==='phone'&&<label className="call-choice"><input type="checkbox" required checked={callRequested} onChange={e=>setCallRequested(e.target.checked)}/><Phone size={15}/>Позвоните мне</label>}<small>Сейчас это демонстрация: звонков и сообщений не будет.</small></fieldset>;
+}

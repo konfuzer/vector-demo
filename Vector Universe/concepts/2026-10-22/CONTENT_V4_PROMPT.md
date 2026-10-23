@@ -1,0 +1,22 @@
+# Обновление B под личную выставку ученика
+
+Встроенный image_gen; вход — concept-b-atelier-v3-official-logo.png. После генерации бренд компонуется отдельно с оригинальным SVG.
+
+Use case: ui-mockup / precise-object-edit.
+Update the supplied approved Vector Universe light atelier concept to show its NOW AGREED PRODUCT FUNCTION. Output one highly polished full-bleed straight-on desktop screen image, landscape 16:10. Preserve the beautiful luminous white/ice-blue studio, enormous brushed blue aluminium arch with offset outline, glass, soft sunlight, detailed tactile materials and sophisticated school-blue/lime palette. This is an evolved high fidelity screen concept, not a working app.
+IMPORTANT: the previous city, map, courtyard and plant project ideas were rejected as content. Completely replace their objects, thumbnails AND texts. No maps, courtyard model, urban-planning brief, plant experiments, bookmark/save-to-collection button, skill scores or teacher approval anywhere.
+Meaning: this is Ivan's PERSONAL EXHIBITION OF FINISHED SCHOOL AND DIGITAL WORKS. Clicking an exhibit opens a work. Three work examples: a history presentation, a physics experiment recorded on video, and a small website. Do not imply these are real works of the school.
+Composition: keep the large arch and spatial exhibition as the dominant central 45 percent. Left 30 percent is a crisp white detail panel of the SELECTED HISTORY WORK. Right 24 percent is a vertical portfolio rail with 3 large, visually distinct previews. In the central arch space replace the miniature courtyard and folded district map with three beautifully designed exhibit holders on plinths: a large illustrated presentation sheet with an elegant small Egypt/papyrus/pyramid cover, a delicate glass prism splitting light on a small science display, and a slightly angled translucent browser display showing a believable simple colourful personal website. They are tactile designed display props, not unrelated decoration. Maintain visual depth, reflection, geometric precision and polished exhibition quality. A blue selection curve connects the history card to its presentation display. The other two exhibit connections can be lighter. No floating random spheres or giant new monuments. Incidental greenery is allowed as background decoration, not a work subject.
+Exact Russian UI text, crisp and legible:
+Header navigation: "Мой мир" selected, "Проекты школы", "Портфолио". Account: "Иван". No upper demo disclaimer.
+At top left use a larger, prominent WHITE rounded school-brand plaque with a subtle icy-blue glow behind it, approximately x=36,y=16,width=250,height=118 on a 1586x992 reference canvas. Put a school-logo-like placeholder in this plaque for now; the authentic official SVG will be inserted exactly after generation. Adjacent product word "Universe" at x≈305, centred vertically with the logo. Do NOT leave the plaque blank in the output. Do NOT put other text or controls over the brand area.
+Main title "Мой мир", with subtitle "Мои работы, проекты и открытия."
+Left selected work panel: small eyebrow "Моя работа", main title "Древний Египет", topic label "История · Презентация", short text "Подготовил презентацию о жизни в Древнем Египте."
+Materials title "Файлы работы"; rows "Презентация.pdf" and "Иллюстрации".
+Primary blue button "Открыть презентацию"; secondary pale-lime button "Редактировать".
+Right rail heading "Мои работы"; 3 preview cards:
+1. An illustrated Egypt/history presentation cover, title "Древний Египет", small subtitle "Презентация · История".
+2. A real-looking school science glass prism and light image, title "Свет и призма", small subtitle "Видео опыта · Физика".
+3. A crisp simple personal website preview, title "Мой первый сайт", small subtitle "Сайт · Информатика".
+At bottom centre, a beautifully integrated compact white floating toolbar in the empty foreground, with two distinct usable controls: "+ Добавить работу" and "Оформить мир". These are global actions, separate from editing the selected work.
+All exact contents fit in one viewport, no huge unused space. Keep readable calm white surfaces behind text, geometric humanist sans, realistic practical controls. Do not introduce dates, metrics, extra projects or factual school claims. No lorem ipsum or marketing slogans. No old labels "Карта тихих мест", "Макет двора", "Свет для растений", "Город, в котором удобно жить", "Сохранить в подборку", "Дневник наблюдений".

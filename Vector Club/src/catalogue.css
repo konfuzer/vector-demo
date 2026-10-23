@@ -1,0 +1,19 @@
+/* Content provenance within the existing card composition. */
+.catalog-toolbar>.demo-note{grid-column:1/-1;grid-row:3;margin:0;max-width:100%;white-space:normal;text-align:right;line-height:1.45;justify-self:end;font-size:10px}
+.catalog-toolbar>.demo-note svg{flex-shrink:0}
+.program-origin{position:absolute;right:19px;top:25px;max-width:60%;font-size:9px;line-height:1.4;padding:6px 9px;border-radius:9px;background:#0b244b9e;color:#e2efff;backdrop-filter:blur(8px)}
+.light .program-origin{background:#f7fbffce;color:#47678e}
+.card-conditions{font-size:9px;line-height:1.35;margin:0 0 7px;opacity:.84}
+.more-grid .course-copy h2{font-size:25px;line-height:1.13;min-height:85px;margin-bottom:10px;letter-spacing:-1px;overflow-wrap:normal}
+.more-grid .course-card:after{background:linear-gradient(0deg,#071b38f2,transparent 92%)}
+.more-grid .course-card.light:after{background:linear-gradient(0deg,#e6f2fff5,#e6f2ff88 65%,transparent)}
+.more-grid .program-origin{left:20px;right:auto;top:61px;max-width:calc(100% - 40px);font-size:8px}
+.official-program-link{display:inline-flex;align-items:center;gap:8px;color:#2788ed;font-size:13px;line-height:1.5;margin:0 0 18px;text-decoration:underline;text-underline-offset:4px}
+.conditions-note{font-size:11px;line-height:1.5;color:#6682a4;margin:0 0 15px}
+.selected-group>small{display:block;margin-top:6px;color:#7d91ae;font-size:10px}
+.admin-origin{display:block;color:#5583b5;font-size:11px;margin-bottom:12px}
+.admin-program .conditions-note{display:block}.admin-program .official-program-link{display:flex;font-size:11px}
+.migration-info{padding:10px 40px;background:#e9f3ff;color:#55759d;font-size:11px;line-height:1.6;border-bottom:1px solid #dbe8f9}
+.migration-info summary{cursor:pointer}.migration-info p{max-width:1000px;margin:10px 0}.migration-info a{text-decoration:underline}
+@media(min-width:761px) and (max-width:1300px){.program-origin{top:18px;right:15px;font-size:8px;padding:5px 7px}.more-grid .course-copy h2{font-size:22px;min-height:78px}.more-grid .program-origin{top:61px;font-size:8px}}
+@media(max-width:760px){.program-origin{top:24px;right:18px;font-size:8px;max-width:54%}.catalog-toolbar>.demo-note{margin:0;font-size:9px;text-align:left}.more-grid .course-copy h2{font-size:28px;min-height:0;max-width:100%}.more-grid .course-card{height:330px}.more-grid .program-origin{top:61px}.migration-info{padding:10px 17px}.program-layout .section-title{flex-wrap:wrap;gap:8px}.program-layout .section-title small{font-size:10px}}

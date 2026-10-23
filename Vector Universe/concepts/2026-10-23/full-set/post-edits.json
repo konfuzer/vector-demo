@@ -1,0 +1,36 @@
+{
+  "01-portfolio": {
+    "path": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\assets\\01-portfolio-heading-edit.png",
+    "rect": {
+      "left": 80,
+      "top": 125,
+      "width": 700,
+      "height": 62
+    },
+    "prompt": "Precise text-only edit of the supplied Vector Universe concept. Replace the main page heading \"Портфолио Ивана\" with EXACTLY \"Портфолио · Иван\". Preserve its font, size, weight, dark colour, baseline, location and whitespace. The centred middle dot is a name separator. The personal name must remain \"Иван\", never \"Ивана\". Do NOT change any other text, images, PDF content, interface controls, background, official logo, Universe lettering, navigation or composition. Same frame, same dimensions. Only this one heading text changes."
+  },
+  "07-parent-view": {
+    "path": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\assets\\07-parent-view-heading-edit.png",
+    "rect": {
+      "left": 65,
+      "top": 137,
+      "width": 850,
+      "height": 64
+    },
+    "prompt": "Precise text-only edit of the supplied Vector Universe concept. Replace the main page heading \"Портфолио Ивана\" with EXACTLY \"Портфолио · Иван\". Preserve its font, size, weight, dark colour, baseline, location and whitespace. The centred middle dot is a name separator. The personal name must remain \"Иван\", never \"Ивана\". Do NOT change any other text, images, PDF content, interface controls, background, official logo, Universe lettering, navigation or composition. Same frame, same dimensions. Only this one heading text changes."
+  },
+  "08-real-history-work": {
+    "path": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\assets\\08-real-history-work-heading-edit.png",
+    "rect": {
+      "left": 1093,
+      "top": 615,
+      "width": 420,
+      "height": 43
+    },
+    "prompt": "Precisely edit ONLY the right-side information heading \"В портфолио Ивана\" to EXACTLY \"В портфолио\". Keep its original font, size, colour and position. The personal name must not be inflected. Preserve all other text, official branding, navigation, original real PDF slide, filmstrip and source attribution EXACTLY unchanged. Same frame and dimensions. Do not regenerate or reinterpret the PDF content; only this one short heading changes."
+  },
+  "prism": {
+    "path": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\assets\\prism-clean-generated.png",
+    "prompt": "Precisely edit this wide video-thumbnail image. Remove ONLY the small circular pencil/edit icon in the upper right corner, filling that tiny corner naturally with the continuous dark background behind it. Keep the glass prism, colours, rainbow, desk and CENTRAL WHITE PLAY SYMBOL exactly unchanged. No other changes, no new text or icons. Preserve original wide aspect ratio and composition."
+  }
+}

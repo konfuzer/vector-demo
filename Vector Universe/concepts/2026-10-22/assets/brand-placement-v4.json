@@ -1,0 +1,17 @@
+{
+  "source": "vektor-official.svg",
+  "logo": {
+    "left": 58,
+    "top": 18,
+    "width": 208,
+    "height": 91
+  },
+  "opticalCenterY": 74,
+  "officialPathsUnchanged": true,
+  "headerBrandArea": {
+    "left": 28,
+    "top": 8,
+    "width": 426,
+    "height": 134
+  }
+}

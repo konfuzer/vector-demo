@@ -1,0 +1,18 @@
+Use case: precise-object-edit / ui-mockup.
+Input image 1 is the EXACT EDIT TARGET: the already selected Vector Flow concept A. Input image2 is the official school logo reference, supporting brand input only.
+Revise this one screen according to specific client feedback. Preserve its elegant light sky-blue-and-white composition, soft lime accent, Cyrillic typography, exact official logo, horizontal navigation, restrained depth, large financial graph, lower admissions funnel and occupancy chart. Same landscape16:10 full-screen desktop UI, edge-to-edge, straight on, no browser chrome or laptop. All Russian text must be crisp and readable. This is a visual proposal, not a functional screenshot.
+Required changes:
+1. Header navigation EXACTLY "Обзор", "Заявки", "Ученики", "Оплата", "Экономика". "Обзор" selected. Keep period "Сентябрь 2026" and badge "Демо · данные вымышлены". Change role at top right to "Учредитель". Keep official original black school logo and separate blue word Flow.
+2. In the3top metric cards keep left "Поступления" / "4 860 000 ₽". REPLACE the middle overdue card ENTIRELY with "Открытые заявки" / "16" / small "Школа10 · Club6". Keep right lime metric "Денежный результат" / "+740 000 ₽" / "Поступления минус выплаты". It is an information card, not a button.
+3. Replace top-right blue button "Новая заявка" with "К экономике" and a subtle forward arrow, since this is the founder's view.
+4. REMOVE ALL overdue, delinquency, payment-delay and personal payment content from this screen. No "Просрочено", no red alarm icons, no Sofia, no "Отсрочка согласована", no family-payment cards. Do not emphasize payments not received anywhere.
+5. REBUILD the entire RIGHT rail as a calm applications overview, using the same visual language and width:
+Top heading "Заявки по направлениям".
+First section "Школа" with large "10", breakdown "7 новых · 3 в работе", slim two-colour segmented blue/lime bar.
+Second section "Vector Club" with large "6", breakdown "4 новых · 2 в работе", slim blue/lime bar.
+Small "Открыть заявки" outline link/button.
+Separate lower white panel titled "Последние заявки" with two simple rows using monogram icons, not photos: "Марк Власов" / "Club · Новая"; "Арина Котова" / "Школа · В работе". Names refer to students, not families. No edit or assign controls in founder view.
+6. Preserve the financial chart "Движение денег", zero baseline and legend Поступления blue / Выплаты lime, actual data in млн ₽: July3.92/3.68; August4.58/4.02; September4.86/4.12. Preserve chart labels as in the original. 
+7. Preserve lower "Поступление в школу" funnel36→27→14→9→6 and conversion16,7%, with existing percentages and labels. This is a demo enrollment cohort, separate from open applications.
+Preserve lower occupancy132/144=91,7% and year-group values:5-е26/28;6-е27/28;7-е28/30;8-е25/28;9-е26/30.
+Do not redesign the approved screen into another CRM. Keep readable numeric hierarchy, generous but purposeful density, matching backgrounds and tidy alignments. Keep complete content within the frame. Do not add AI chat, decorative widget clutter, school facts or new statistics. Money result is receipts minus outgoing payments, never label it profit.

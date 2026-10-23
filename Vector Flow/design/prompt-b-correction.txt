@@ -1,0 +1,4 @@
+Use case: precise-object-edit / text-localization.
+Input image 1 is the exact edit target, the existing Vector Flow desktop UI concept B.
+Make ONLY this tiny correction: in the filter chip above the student list, currently reading "Просрочено 2", replace the number 2 with 6, so it reads "Просрочено 6". This agrees with the top business strip "186 тыс. ₽ по 6 семьям". The list shows only six preview rows out of132, so two visible overdue pupils are not the total.
+Preserve EVERYTHING else exactly: full 16:10 canvas, original official logo, colours, Cyrillic typography, all panels and alignments, every other number and word, all charts, faces/monograms, all student details, cash preference, individual payment agreement100000 ₽ due30October, no overdue for Sofia. Do not redesign, crop, add or remove any elements. High-fidelity legible desktop UI, same dimensions as input.

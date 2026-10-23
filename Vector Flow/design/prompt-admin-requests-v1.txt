@@ -1,0 +1,26 @@
+Use case: ui-mockup / style-transfer.
+Input image1 is ONLY the approved VECTOR FLOW A visual-language reference. Input image2 is ONLY the official school logo reference. Create a new administrator screen in EXACTLY the same coherent product design system as image1. Not a recoloured generic CRM; use its horizontal top navigation, broad light-blue canvas, soft white translucent planes, crisp geometric Cyrillic type, azure #3C8FEF accents and pale lime #D4ED85. No vertical navigation sidebar. No stacked toy widgets. Calm technical precision, comfortable real desktop working density.
+Output ONE polished high-fidelity 16:10 full-screen desktop UI image, ideally2560x1600, straight-on, edge-to-edge, no laptop mockup. All Russian labels and figures readable. This is a visual proposal, all data invented.
+Header: faithfully reproduce small official black school logo at left and separate word Flow. Nav EXACTLY "Обзор", "Заявки", "Ученики", "Оплата"; Заявки selected. DO NOT include Экономика for this admin role. At right period "Сентябрь 2026", badge "Демо · данные вымышлены", profile "Мария · Администратор".
+Header/title area: "Заявки" and subtitle "Школа и Vector Club". Right main blue button "+ Новая заявка". A single tasteful pale-blue summary band with three typographic measures: "Новые11", "В работе5", "Открыто всего16". These are operational counts. Absolutely NO monetary result, global receipts, delinquency, debts or payment-delay content on this screen.
+Working surface: two adjacent WHITE panes with shared design rhythm; left 55% a register, right45% an open request editor. Keep ample legible room, not dozens of micro-panels.
+LEFT PANE:
+Search input "Поиск по имени ученика". Filter chips "Все16", "Школа10", "Club6". Six illustrative rows, with proper column headings "Ученик", "Направление", "Статус", "Ответственный". Monogram avatar and name, blue/soft lime chips and thin row separators:
+"Марк Власов" | "Club" | "Новая" | "Не назначен" — selected light-blue row.
+"Арина Котова" | "Школа" | "В работе" | "Мария".
+"Иван Романов" | "Club" | "Новая" | "Не назначен".
+"Кира Соколова" | "Школа" | "Новая" | "Не назначен".
+"Лев Орлов" | "Club" | "В работе" | "Мария".
+"Дарья Белова" | "Club" | "Новая" | "Не назначен".
+Footer "Показано6 из16". The other ten records aren't visible, so don't change totals to visible rows.
+Under register a compact informative footer/rail "По направлениям: Школа — 7 новых, 3 в работе; Club — 4 новых, 2 в работе" using simple aligned small numeric blocks if it fits; avoid chart clutter.
+RIGHT EDITOR:
+Heading "Заявка №CL-024", badge "Club · Новая", close X. Name "Марк Власов", sublabel "Потенциальный ученик". Parent "Елена Власова"; contact line "Контакт для связи: демонстрационный". No real phone, email, portrait or private contact info.
+Field "Программа" with dropdown value "Робототехника". Small muted note "Демонстрационная программа", not an official school offering.
+Field "Статус" dropdown value "Новая". Field "Ответственный" dropdown placeholder "Выберите сотрудника" and small link "Назначить себя".
+Field "Следующий шаг" with text "Уточнить удобную группу".
+Textarea "Комментарий" with "Родитель просит связаться после18:00".
+Bottom history section "История" with a single row "30 сентября · Создана демозаявка".
+Action row prominent blue "Сохранить изменения", outline "Отмена".
+A small quiet helper "При изменении статуса обновятся список и счётчики." No AI claim, no automatic external sending, no actual synchronization claim.
+Keep a single editor form rather than many equal cards. It should look like the administrative working counterpart of concept A, with all key actions visible on a16:10 laptop. No family section. No teacher absence, schedules, room unavailability, screenshots from other products, real integrations or financial alarm messaging.

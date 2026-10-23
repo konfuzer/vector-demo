@@ -1,0 +1,188 @@
+{
+  "package": "VECTOR DIGITAL DEMO CONTEXT ONLY",
+  "date": "2026-10-22",
+  "execution_mode": "READ_ONLY_DISCUSSION_NO_IMPLEMENTATION",
+  "file_count_excluding_manifest": 36,
+  "files": [
+    {
+      "path": "00_MASTER_CONTEXT_PROMPT.md",
+      "size_bytes": 157009,
+      "sha256": "2d87bcfb73f5b10fc0fb8cdad11e239c321c6dcee23518223b55012c1e755100"
+    },
+    {
+      "path": "AGENTS.md",
+      "size_bytes": 5983,
+      "sha256": "0b35e34f026905c81d49db0db13761f2bc6f379e6e05dade64f324169fcedc4f"
+    },
+    {
+      "path": "Demo Hub/README.md",
+      "size_bytes": 832,
+      "sha256": "b4d7f8c9f3815b49c3cca2e9f58a859c5f9253a394b62f3deab0711d4bdacf2a"
+    },
+    {
+      "path": "PROMPT_TO_PASTE_IN_FIRST_CODEX_CHAT.md",
+      "size_bytes": 5107,
+      "sha256": "50e8334a95df876a5cb28386f3c96539385a4967ba01a28fede1aa241cd866ad"
+    },
+    {
+      "path": "README_START_HERE.md",
+      "size_bytes": 4787,
+      "sha256": "c4fbe10d74741eb1217dc689694fb7ce2a5059f3e0511ad8974336053b603608"
+    },
+    {
+      "path": "Vector Club/README.md",
+      "size_bytes": 825,
+      "sha256": "cc9680220f9b2928d62fbebff3a73e854d1adf8350e9593aa8a73a336c398704"
+    },
+    {
+      "path": "Vector Flow/README.md",
+      "size_bytes": 1030,
+      "sha256": "bd57611c413c2274b058cad80245b5081c40d26945ef0746ae22430b9b49c86a"
+    },
+    {
+      "path": "Vector Universe/README.md",
+      "size_bytes": 1118,
+      "sha256": "3b6448cde5682320a883531d9542fa409b5348dc15c0e57ba948b7920b0628cd"
+    },
+    {
+      "path": "docs/01_USER_GOALS_AND_MEETING.md",
+      "size_bytes": 8083,
+      "sha256": "d07c0667720b6bec0fdba26d6800f759d85842473a50be92d316aaf31f182a05"
+    },
+    {
+      "path": "docs/02_DECISIONS_TIMELINE.md",
+      "size_bytes": 7218,
+      "sha256": "03beb6bb7af8ff72ce8bd835e3f3ebfd58e061ef8b0cd079a247266724382b61"
+    },
+    {
+      "path": "docs/03_THREE_PRODUCT_BRIEFS.md",
+      "size_bytes": 16526,
+      "sha256": "31874afd4a9aef07a4311d3fa58f3d7295f4bd877866a25ffc35079a42207596"
+    },
+    {
+      "path": "docs/04_VISUAL_DIRECTION_AND_REFERENCE_MAP.md",
+      "size_bytes": 11644,
+      "sha256": "059f780b381a7021952c3ca9b31059799dbc3bfea43f83e6411d98af4a0b6738"
+    },
+    {
+      "path": "docs/05_CONTENT_PROVENANCE_AND_SAFETY.md",
+      "size_bytes": 6371,
+      "sha256": "491fbc05260b7317c41f181bcc47ddcf5cd643eb152f1fc23714d74506e478bc"
+    },
+    {
+      "path": "docs/06_DISCOVERY_FIRST_WORKFLOW.md",
+      "size_bytes": 7006,
+      "sha256": "1451c6e93722b8c759f567d3d5930dcafccd48f001b48a593bffa5a50c75c0b6"
+    },
+    {
+      "path": "docs/07_ECONOMICS_HYPOTHESES_AND_MEASUREMENT.md",
+      "size_bytes": 5866,
+      "sha256": "6f20e85e316ad3b59ebca7e0d6a0a3544a96df4929daca18c6b0ac41a2fe6a91"
+    },
+    {
+      "path": "docs/08_REPOSITORY_AND_FOUR_CHATS.md",
+      "size_bytes": 4822,
+      "sha256": "551eb09df11d7e11032c48be79cee1d624baedef0a45824e0b0282ab1e04f907"
+    },
+    {
+      "path": "docs/09_FAILURE_POSTMORTEM.md",
+      "size_bytes": 6072,
+      "sha256": "fd51b34778ecac9c12a9601db785e26921b3f887826c268d58f4eb0cab759186"
+    },
+    {
+      "path": "docs/10_FIGMA_MCP_AND_SKILLS.md",
+      "size_bytes": 6889,
+      "sha256": "242570fc263e5e1e8337cce3e9077db71ad0866cfe2a6665733f655c2d007577"
+    },
+    {
+      "path": "docs/11_QUESTIONS_FOR_INITIAL_CONVERSATION.md",
+      "size_bytes": 5612,
+      "sha256": "2a4c319a59821cf5d77796c3aaf534514a28605bcddd31bc0839c40bf0692965"
+    },
+    {
+      "path": "docs/12_REFERENCE_INDEX_AND_VERIFIED_LINKS.md",
+      "size_bytes": 4444,
+      "sha256": "794cf95bfc840d0f8cee49fb8aa33c7c768a4db9f4d35e36e3f2d3d416499150"
+    },
+    {
+      "path": "references/Anti AI-slop.txt",
+      "size_bytes": 22755,
+      "sha256": "fad5ff13034c2a15715978c244023f71d6a88e42a5cb4ad7ef5e753fcc5afde4"
+    },
+    {
+      "path": "references/README.md",
+      "size_bytes": 1451,
+      "sha256": "8aa02d0db073fbe8a2f0e34fbb571be4ae40e9bb333f1f3a8bf6f5e4cf759fc3"
+    },
+    {
+      "path": "references/aspirational/universe_target_illustration.png",
+      "size_bytes": 2084921,
+      "sha256": "1375683f5f061c8feaab8e1d5794106be81767ef1219d241fae14456d9f5be49"
+    },
+    {
+      "path": "references/negative/01_old_flat_hero.png",
+      "size_bytes": 151156,
+      "sha256": "3c2647fb1c035270f5bf62df305c16ff845ec0cd53a6ff9ec2e4fa74bcc4ea69"
+    },
+    {
+      "path": "references/negative/02_empty_portfolio.png",
+      "size_bytes": 117497,
+      "sha256": "74c9ec6b43505b38d886b08f0ce1fc3d761d10825da4734ebe90a15ff59bd346"
+    },
+    {
+      "path": "references/negative/03_rectangular_skill_list.png",
+      "size_bytes": 125935,
+      "sha256": "5a2952e3a456af6da9d15b985535a960e9dff03fee751d8e1f0c96fc7fd9edee"
+    },
+    {
+      "path": "references/negative/04_after_rescue_still_flat.png",
+      "size_bytes": 242910,
+      "sha256": "95045f2ffc3f26e02d3b5505d980f519320a9a7871c50d65198b6b3ccf51afe3"
+    },
+    {
+      "path": "references/positive/01_soft_lavender_editorial.png",
+      "size_bytes": 318148,
+      "sha256": "49795690f699c79b26f180e2a3e99d9f9340c083ea9e22017910665d7f413fb3"
+    },
+    {
+      "path": "references/positive/02_dark_metallic_modular.png",
+      "size_bytes": 684359,
+      "sha256": "7f6a0fa8ed3cb87e79799b2ad46f9440f5cff43ade3ba7343622e23c56966abf"
+    },
+    {
+      "path": "references/positive/03_blue_three_dimensional_city.png",
+      "size_bytes": 752103,
+      "sha256": "f8308cb347a9f07c150436209f92403290a60a6b30d89007821adcf8dad5a417"
+    },
+    {
+      "path": "references/positive/04_bright_blue_fintech_narrative.png",
+      "size_bytes": 408628,
+      "sha256": "a20695d34adffbecfd6707aea2873e938cafe65adb60b81945e3cc056ca87493"
+    },
+    {
+      "path": "references/positive/05_lavender_organic_premium.png",
+      "size_bytes": 706998,
+      "sha256": "b8d8c7d1aaab662d94675801050bc1fb57b8f595195dcb77b513ff2dd6cbcd7d"
+    },
+    {
+      "path": "references/positive/06_dark_orange_arc_composition.png",
+      "size_bytes": 89179,
+      "sha256": "a37c80033a705a7c434b054fcd6804c37bd592f9344d96e2ba5a4cbfb2a546ca"
+    },
+    {
+      "path": "references/positive/07_electric_blue_horizon.png",
+      "size_bytes": 192141,
+      "sha256": "685ed64aaa4a8f07a0d6dd0e60b83718976fdef42de3decde75f80b8af5796ba"
+    },
+    {
+      "path": "references/positive/08_black_sculptural_editorial.png",
+      "size_bytes": 455752,
+      "sha256": "de2690380b0387c3f27a7f638cefe9fc86c5e76ddb09a57a719391230c4695c0"
+    },
+    {
+      "path": "references/positive/contact_sheet.png",
+      "size_bytes": 680959,
+      "sha256": "f1f8358989bc4f361a8decbc5da30c49506349dbd91d006c10e163101f132b56"
+    }
+  ]
+}

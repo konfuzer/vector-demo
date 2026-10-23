@@ -1,0 +1,11 @@
+{
+  "name": "vector-demo-handoff",
+  "private": true,
+  "version": "1.0.0",
+  "engines": { "node": ">=22.12" },
+  "scripts": {
+    "setup": "node tools/local-demo.mjs setup",
+    "build": "node tools/local-demo.mjs build",
+    "start": "node tools/local-demo.mjs start"
+  }
+}

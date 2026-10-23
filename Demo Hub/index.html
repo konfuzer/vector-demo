@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#e4efff">
+<title>Проекты Вектора</title>
+<style>
+:root{color-scheme:light;font-family:Arial,sans-serif;color:#222;background:#e4efff}*{box-sizing:border-box}body{margin:0}main{min-height:100vh;min-height:100svh;display:grid;place-content:center;padding:40px 24px 110px}h1{margin:0 0 32px;text-align:center;font-size:clamp(30px,5vw,44px);font-weight:500;letter-spacing:-.04em}nav{display:flex;gap:14px;flex-wrap:wrap;justify-content:center}.project{display:grid;place-items:center;min-width:205px;min-height:68px;padding:20px 28px;border:1px solid #bcd7f7;border-radius:14px;background:#fff;color:#222;font-size:19px;text-decoration:none}.project:hover{background:#d4ed85;border-color:#b7d467}a:focus-visible,button:focus-visible{outline:3px solid #3c8fef;outline-offset:5px}button{font:inherit;cursor:pointer}.guide-trigger{position:fixed;right:24px;bottom:24px;min-height:48px;padding:12px 20px;border:0;border-radius:24px;color:#fff;background:#236bbc;box-shadow:0 4px 16px #3c8fef26}.guide-trigger:hover{background:#195a9e}dialog{width:min(690px,calc(100% - 32px));max-height:calc(100dvh - 48px);padding:0;border:1px solid #bcd7f7;border-radius:20px;color:#222;background:#fff}dialog::backdrop{background:#172d4b66}.guide-head{position:sticky;top:0;display:flex;align-items:center;justify-content:space-between;gap:20px;padding:22px 26px;border-bottom:1px solid #e4efff;background:#fff}h2{margin:0;font-size:23px;font-weight:500}.close{flex:0 0 auto;width:40px;height:40px;border:0;border-radius:50%;background:#e4efff;color:#222;font-size:26px}.guide-body{padding:0 26px 26px;line-height:1.6;font-size:16px}h3{margin:26px 0 8px;color:#236bbc;font-size:20px}p{margin:12px 0}ol{margin:10px 0;padding-left:23px}li{padding-left:3px;margin:5px 0}.note{margin-top:26px;padding:15px 18px;border-radius:12px;background:#f1f7e3;font-size:14px}@media(max-width:720px){nav{flex-direction:column}.project{min-width:min(300px,calc(100vw - 48px))}.guide-trigger{right:16px;bottom:16px}.guide-head{padding:18px}.guide-body{padding:0 18px 20px}}
+</style>
+</head>
+<body>
+<main>
+  <h1>Проекты Вектора</h1>
+  <nav aria-label="Выбрать проект">
+    <a class="project" href="https://vector-club-demo.rankly-list-0881f9e4.workers.dev/">Vector Club</a>
+    <a class="project" href="https://vector-universe-demo.rankly-list-0881f9e4.workers.dev/">Vector Universe</a>
+    <a class="project" href="https://vector-flow-demo.rankly-list-0881f9e4.workers.dev/">Vector Flow</a>
+  </nav>
+</main>
+<button class="guide-trigger" id="open-guide" type="button" aria-haspopup="dialog" aria-controls="guide">О проектах · инструкция</button>
+<dialog id="guide" aria-labelledby="guide-title">
+  <div class="guide-head">
+    <h2 id="guide-title">Как посмотреть проекты</h2>
+    <button class="close" id="close-guide" type="button" aria-label="Закрыть инструкцию" autofocus>×</button>
+  </div>
+  <div class="guide-body">
+    <p>Три самостоятельных прототипа показывают разные возможности для школы. Выберите проект на главной странице; к этой инструкции можно вернуться кнопкой «Назад» в браузере.</p>
+    <section aria-labelledby="club-title">
+      <h3 id="club-title">Vector Club</h3>
+      <p><strong>Для родителей и сотрудника клуба.</strong> Подбор дополнительных занятий и сопровождение обращения семьи — от пожеланий до выбора группы.</p>
+      <ol>
+        <li>Посмотрите каталог или нажмите «Помогите подобрать занятие».</li>
+        <li>Создайте демонстрационное обращение с вымышленными данными.</li>
+        <li>Перейдите в режим администратора: предложите варианты, затем подтвердите выбор от лица родителя и оформите бронь.</li>
+      </ol>
+      <p>Это предложение для обсуждения дополнений к существующему сайту и процессам клуба. Нужный школе объём предстоит определить вместе. Помощник показывает пример диалога без подключённой AI-модели.</p>
+    </section>
+    <section aria-labelledby="universe-title">
+      <h3 id="universe-title">Vector Universe</h3>
+      <p><strong>Для ученика.</strong> Личное пространство проектов: задания школы, собственные работы, портфолио и выставка.</p>
+      <ol>
+        <li>Откройте «Проекты школы», выберите задание и посмотрите материалы.</li>
+        <li>Начните проект и найдите его черновик в портфолио.</li>
+        <li>Посмотрите готовые работы и выставку; попробуйте режим показа родителю.</li>
+      </ol>
+      <p>Идея — собрать проектную деятельность ученика в понятное и выразительное пространство. Задания и ученические работы здесь — демонстрационные примеры.</p>
+    </section>
+    <section aria-labelledby="flow-title">
+      <h3 id="flow-title">Vector Flow</h3>
+      <p><strong>Для администратора и учредителя.</strong> Рабочее место для обращений, карточек учеников и учёта оплат с обзором поступлений и выплат.</p>
+      <ol>
+        <li>В роли учредителя посмотрите обзор и откройте записи из показателей.</li>
+        <li>Переключитесь на администратора: откройте заявку, назначьте ответственного и следующий шаг.</li>
+        <li>В карточке ученика отметьте демонстрационную оплату и посмотрите, как обновились остаток и сводные показатели.</li>
+      </ol>
+      <p>Идея — связать повседневные действия сотрудника с общей картиной работы школы. Денежный результат означает поступления минус выплаты, а не бухгалтерскую прибыль.</p>
+    </section>
+    <p class="note">Это прототипы для обсуждения. Используйте вымышленные контакты и учебные файлы. Изменения сохраняются только в вашем браузере; между устройствами и проектами они не передаются. Настоящие платежи, сообщения и подключения к системам школы не выполняются.</p>
+  </div>
+</dialog>
+<script>
+const guide=document.getElementById('guide');
+const trigger=document.getElementById('open-guide');
+trigger.addEventListener('click',()=>guide.showModal());
+document.getElementById('close-guide').addEventListener('click',()=>guide.close());
+guide.addEventListener('click',event=>{
+  const b=guide.getBoundingClientRect();
+  if(event.target===guide&&(event.clientX<b.left||event.clientX>b.right||event.clientY<b.top||event.clientY>b.bottom))guide.close();
+});
+guide.addEventListener('close',()=>trigger.focus());
+</script>
+</body>
+</html>

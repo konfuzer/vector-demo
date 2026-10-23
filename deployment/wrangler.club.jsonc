@@ -1,0 +1,9 @@
+{
+  "name": "vector-club-demo",
+  "compatibility_date": "2026-10-23",
+  "workers_dev": true,
+  "assets": {
+    "directory": "./assets/club",
+    "not_found_handling": "single-page-application"
+  }
+}

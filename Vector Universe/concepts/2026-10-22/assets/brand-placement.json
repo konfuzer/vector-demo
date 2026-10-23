@@ -1,0 +1,18 @@
+{
+  "source": "vektor-official.svg",
+  "logo": {
+    "left": 68,
+    "top": 25,
+    "width": 176,
+    "height": 77
+  },
+  "visibleAlphaCentroidY": 47.282690433669735,
+  "targetOpticalCenterY": 72,
+  "preservedPixelsOutsideBrandRect": {
+    "left": 32,
+    "top": 12,
+    "width": 388,
+    "height": 120
+  },
+  "note": "Only transparent outer SVG margins were trimmed. Original paths and colors are unchanged."
+}

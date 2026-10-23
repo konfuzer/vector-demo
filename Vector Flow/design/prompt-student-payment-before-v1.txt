@@ -1,0 +1,24 @@
+Use case: ui-mockup / style-transfer.
+Asset type: high-fidelity Vector Flow student personal card, payment tab BEFORE recording a payment.
+Input image1 is ONLY the approved design-system reference: Vector Flow administrator requests. Input image2 is ONLY the official school logo. Create a new screen using the EXACT same visual family, refined light-blue canvas, white layered surfaces, sky-blue #3C8FEF, soft lime #D4ED85, geometric humanist Cyrillic typography, crisp dark text, horizontal header, soft restrained depth. Preserve the official Cyrillic logo with its vertical arrow and separate blue Flow name. Do not use a vertical navigation sidebar, a generic CRM master-detail student list, photos or faces. Main content is one full-width personal student page.
+Output ONE full-screen straight-on landscape16:10 desktop UI, ideally2560x1600, no laptop/browser mockup, high legibility, content fully within frame. This is a design image; every person and sum is synthetic.
+Header same as reference: official logo + Flow, navigation "Обзор", "Заявки", "Ученики", "Оплата"; Ученики selected. Right "Сентябрь2026", badge "Демо · данные вымышлены", profile "Мария · Администратор". No Экономика and no school-wide money metrics.
+Below breadcrumb "Ученики / Мария Орлова". Elegant generous title line with monogram circle МО, title "Мария Орлова", subline "5 класс · Обучается". Right outline action "Редактировать". Inside-page horizontal tabs "Обзор", "Оплата", "Файлы", "История"; Оплата active.
+Main composition: LEFT25% calm continuous information rail, RIGHT75% broad payment workspace. Same approved A visual language, not old rejected list+sidepanel composition. No list of other students on this screen.
+LEFT rail:
+White card title "Данные ученика", fields "Класс5", "СтатусОбучается", "Личное дело№У-032".
+Section "Родители и контакты": "Анна Орлова · мама", below "Демонстрационный контакт"; "Дмитрий Орлов · папа", below "Демонстрационный контакт". Do not invent phone numbers or usable email addresses.
+Separate light-blue note block "Примечания" with text "По организационным вопросам связываться после18:00". No debt or payment-delay notes. These are student-related contacts, no Семьи section.
+RIGHT workspace:
+A large WHITE panel title "График платежей", small plan "Обучение · 50 000 ₽ / месяц", right button "+ Начисление".
+A quiet thin summary strip exactly "За сентябрь:50 000 ₽", "Оплачено:0 ₽", "Осталось:50 000 ₽". Not giant KPI cards and no red warning. These are per-student figures.
+A generously readable table with headers "Период", "Начислено", "Оплачено", "Статус", "Действие".
+THREE rows:
+"Сентябрь2026" | "50 000 ₽" | "0 ₽" | soft neutral chip "Не оплачено" | blue action "Отметить оплату". Highlight this current row with a very light blue background.
+"Октябрь2026" with small "Плановый период" | "50 000 ₽" | "0 ₽" | neutral "Не оплачено" | simple ellipsis.
+"Ноябрь2026" with small "Плановый период" | "50 000 ₽" | "0 ₽" | neutral "Не оплачено" | simple ellipsis.
+Below table, well-spaced section heading "Платежи за сентябрь" and short honest state "Платежей пока нет" with a subtle receipt outline icon. This is only a small local panel; the whole page is populated and substantive, not an empty-state screen.
+Under main white panel two adjacent compact surfaces:
+"Файлы" showing a document row "договор-демо.pdf" and outline action "Прикрепить файл".
+"История" showing "1 сентября · Добавлено начисление за сентябрь".
+Maintain readable scale, balanced density and helpful whitespace. No unpaid-money hero, no overdue, no debt alarms, no deferral badges, no Sofia, no graphs merely for decoration, no academic grades or skill percentages. No live integration or external payment processor claim. Payment method will be chosen in recording form, not falsely inferred from the monthly charge. All main wording in Russian, clean typographic precision.

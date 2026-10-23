@@ -1,0 +1,154 @@
+/* A short camera-like advance; the shared header stays on its axis. */
+#root {
+  isolation: isolate;
+}
+.room-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+  view-transition-name: universe-room;
+  --room-scale: 1;
+  --room-x: 0%;
+  --room-y: 0%;
+}
+.room-backdrop::before {
+  content: "";
+  position: absolute;
+  inset: -6%;
+  background:
+    linear-gradient(90deg, #f7faff55, #e3f1ff22),
+    url("/assets/environment.webp") center / cover;
+  transform: translate3d(var(--room-x), var(--room-y), 0)
+    scale(var(--room-scale));
+  transition: transform 1.15s cubic-bezier(0.18, 0.65, 0.25, 1);
+}
+.room-school {
+  --room-scale: 1.03;
+  --room-x: -2.2%;
+  --room-y: 1%;
+}
+.room-portfolio {
+  --room-scale: 1.09;
+  --room-x: 2%;
+  --room-y: -1%;
+}
+.room-exhibition {
+  --room-scale: 1.06;
+  --room-x: -1%;
+  --room-y: -2.2%;
+}
+.page,
+.error-banner,
+.loading {
+  position: relative;
+  z-index: 1;
+}
+::view-transition-group(universe-room) {
+  animation: none;
+  z-index: 0;
+}
+.world-artwork {
+  view-transition-name: universe-artwork;
+}
+::view-transition-group(universe-artwork) {
+  animation: none;
+  z-index: 1;
+}
+::view-transition-old(universe-artwork) {
+  animation: room-away 0.55s ease both;
+  mix-blend-mode: normal;
+}
+::view-transition-new(universe-artwork) {
+  animation: room-arrive 0.8s ease both;
+  mix-blend-mode: normal;
+}
+::view-transition-old(universe-room) {
+  animation: room-away 0.55s ease both;
+  mix-blend-mode: normal;
+}
+::view-transition-new(universe-room) {
+  animation: room-arrive 0.8s ease both;
+  mix-blend-mode: normal;
+}
+@keyframes room-away {
+  to {
+    opacity: 0;
+  }
+}
+@keyframes room-arrive {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.header {
+  view-transition-name: universe-header;
+}
+.page,
+.world {
+  view-transition-name: universe-page;
+}
+::view-transition {
+  pointer-events: none;
+}
+::view-transition-group(universe-header) {
+  animation: none;
+  z-index: 3;
+}
+::view-transition-old(universe-header) {
+  display: none;
+}
+::view-transition-new(universe-header) {
+  animation: none;
+}
+::view-transition-group(universe-page) {
+  z-index: 2;
+  animation-duration: 0.62s;
+  animation-timing-function: cubic-bezier(0.2, 0.65, 0.25, 1);
+}
+::view-transition-old(universe-page) {
+  animation: universe-page-away 0.28s cubic-bezier(0.4, 0, 0.5, 1) both;
+  mix-blend-mode: normal;
+}
+::view-transition-new(universe-page) {
+  animation: universe-page-arrive 0.62s cubic-bezier(0.16, 0.7, 0.25, 1) both;
+  mix-blend-mode: normal;
+}
+@keyframes universe-page-away {
+  from {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-8px) scale(1.025);
+  }
+}
+@keyframes universe-page-arrive {
+  from {
+    opacity: 0;
+    transform: translateY(14px) scale(0.98);
+    filter: blur(1px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .header,
+  .page,
+  .world,
+  .world-artwork,
+  .room-backdrop {
+    view-transition-name: none;
+  }
+  .room-backdrop::before {
+    transition: none;
+  }
+}

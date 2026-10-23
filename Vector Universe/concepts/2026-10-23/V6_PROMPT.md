@@ -1,0 +1,21 @@
+# B v6 — независимая интерактивная арка
+
+Встроенный image_gen. Референс: ../2026-10-22/concept-b-atelier-v5-fixed-arch.png. После генерации логотип и Universe вставляются точно из SVG/текстового слоя.
+
+Use case: ui-mockup / precise-object-edit.
+Create an updated high-fidelity Vector Universe MAIN SCREEN from the supplied concept B, landscape 16:10. Preserve its sophisticated luminous white and ice-blue architecture, huge thick brushed blue-aluminium arch with offset contour, glass, realistic contact shadows, material depth, restrained lime #D4ED85 accents and school blue #3C8FEF. Full-bleed app design, no device frame.
+
+CRITICAL NEW PRODUCT RULE: THE ARCH IS AN INDEPENDENT AUTHORED INTERACTIVE ART SCENE. It MUST NEVER CONTAIN A STUDENT'S FILES, COVERS, SLIDES, WORK PREVIEWS, TEXT OR IMAGES. The right portfolio list is a SEPARATE flat user-interface region and has NO visual/data connections to the arch. Remove every connecting curve, dot, cover sheet, Egypt image, website screen, physical science-work model and digital display from the central scene. Student material appears ONLY inside the right-hand cards. Do not turn a student's work into a physical exhibit.
+
+Recompose the main screen: remove the ENTIRE left selected-work panel, its files, description and open/edit controls. Work details now belong on a separate screen, not shown here. Use this freed space to make the fixed art scene much larger and more impressive, filling the left and central roughly 76 percent of the viewport. Keep the right white portfolio rail at roughly 22 percent.
+The arch is a crafted futuristic architectural installation with a layered blue/white stone and aluminium base. Inside and around it are ONLY THREE designer-authored sculptural interaction objects, unrelated to user uploads: a large polished blue/chrome twisted ribbon sculpture, a floating paired brushed-metal concentric-ring mobile, and a stack of thick frosted lime/clear-glass discs on a sculptural pedestal. Make them rich and tangible, as premium material studies, not icons or document holders, no text or images on them. A discreet pointer hover on the ribbon brings a soft blue grazing light and a slight tilted/raised pose, implying a gentle animation. This is HOVER ONLY: NO dragging, move handles, rotate controls, colour pickers, settings, customisation or variable decor. The whole composition remains authored. Small greenery can stay in the background as architecture decoration.
+
+Top left branding region x≈35..430,y≈10..132 on a 1586x992 canvas: keep the same quiet light-grey architectural background and leave it EMPTY OF BRAND LETTERING in this generation. Do not draw a logo, plaque or word Universe; the official exact SVG plus typeset Universe will be overlaid precisely after generation. No white rounded branding panel, outline or background block.
+Rest of header: "Мой мир" selected, "Проекты школы", "Портфолио"; account "Иван".
+Upper-left below header compact main title "Мой мир" (not oversized), subtitle "Работы и проекты, которыми хочется поделиться." Below it smaller functional instruction "Наведи на предметы — сцена оживёт." Keep this text on calm light background, outside the art object.
+Right rail heading "Мои работы". Three compact generous thumbnails with exact text:
+1. Egypt presentation cover INSIDE THIS CARD ONLY; title "Древний Египет"; subtitle "Презентация · История".
+2. Prism experiment video thumbnail INSIDE THIS CARD ONLY; title "Свет и призма"; subtitle "Видео опыта · Физика".
+3. Personal website thumbnail INSIDE THIS CARD ONLY; title "Мой первый сайт"; subtitle "Сайт · Информатика".
+Each card has a small simple opening arrow. No selected-card border connecting it to the scene, no lines from the cards into the arch.
+At bottom of right rail, a clear blue button "+ Добавить работу". No floating art-customisation toolbar and no "Оформить мир". No old work detail panel, save-to-collection, map, courtyard task, plants task, comments, grades, likes, teachers or parent login. Work material examples remain fictional; add no school factual claims or stats. Readable crisp Cyrillic, same high artistic quality as reference, scene visually dense and beautifully lit rather than empty. One desktop viewport.

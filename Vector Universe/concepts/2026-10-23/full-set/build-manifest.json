@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-10-23",
+  "reference": "../concept-work-detail-v2.png",
+  "mainNavPath": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\assets\\00-home-nav-generated.png",
+  "screens": [
+    {
+      "id": "01-portfolio",
+      "title": "Портфолио",
+      "generatedPath": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\assets\\01-portfolio-generated.png",
+      "output": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\01-portfolio.png",
+      "width": 1584,
+      "height": 993
+    },
+    {
+      "id": "02-school-projects",
+      "title": "Проекты школы",
+      "generatedPath": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\assets\\02-school-projects-generated.png",
+      "output": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\02-school-projects.png",
+      "width": 1584,
+      "height": 993
+    },
+    {
+      "id": "03-project-brief",
+      "title": "Задание школы",
+      "generatedPath": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\assets\\03-project-brief-generated.png",
+      "output": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\03-project-brief.png",
+      "width": 1584,
+      "height": 993
+    },
+    {
+      "id": "04-add-work",
+      "title": "Добавление работы",
+      "generatedPath": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\assets\\04-add-work-generated.png",
+      "output": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\04-add-work.png",
+      "width": 1584,
+      "height": 993
+    },
+    {
+      "id": "05-exhibition",
+      "title": "Школьная выставка",
+      "generatedPath": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\assets\\05-exhibition-generated.png",
+      "output": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\05-exhibition.png",
+      "width": 1584,
+      "height": 993
+    },
+    {
+      "id": "06-exhibition-work",
+      "title": "Чужая работа — просмотр",
+      "generatedPath": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\assets\\06-exhibition-work-generated.png",
+      "output": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\06-exhibition-work.png",
+      "width": 1584,
+      "height": 993
+    },
+    {
+      "id": "07-parent-view",
+      "title": "Показ родителю",
+      "generatedPath": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\assets\\07-parent-view-generated.png",
+      "output": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\07-parent-view.png",
+      "width": 1584,
+      "height": 993
+    },
+    {
+      "id": "08-real-history-work",
+      "title": "Настоящая презентация по истории",
+      "generatedPath": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\assets\\08-real-history-work-generated.png",
+      "output": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\08-real-history-work.png",
+      "width": 1584,
+      "height": 993
+    }
+  ],
+  "finishedAt": "2026-10-23",
+  "home": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\00-home.png",
+  "overview": "C:\\Codex Projects\\VectorDEMO\\Vector Universe\\concepts\\2026-10-23\\full-set\\ALL_SCREENS.png"
+}
