@@ -1,3 +1,4 @@
+import {HubLink} from './HubLink';
 import { lazy, Suspense, useEffect, useRef, useState } from "react";
 import { flushSync } from "react-dom";
 import {
@@ -673,6 +674,7 @@ export default function App() {
       <div className={`room-backdrop room-${currentTab}`} aria-hidden="true" />
       {route === "world" && <Artwork />}
       <header className="header">
+        <div className="vector-brand-wrap"><HubLink/>
         <a
           href={parent ? "#show" : "#world"}
           className="brand"
@@ -689,7 +691,7 @@ export default function App() {
             <image href="/assets/logo.svg" width="382" height="284" />
           </svg>
           <span>Universe</span>
-        </a>
+        </a></div>
         {parent ? (
           <div className="parent-indicator">
             <Eye size={20} />
