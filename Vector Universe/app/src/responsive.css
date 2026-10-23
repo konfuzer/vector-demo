@@ -23,7 +23,7 @@ body{min-width:320px}
 }
 @media(max-width:1050px){
  .header{height:128px;min-height:128px;display:grid;grid-template-columns:minmax(0,1fr) auto;grid-template-rows:64px 40px;gap:0 8px;padding:8px 20px 16px;align-items:center;background:#f4faffed}
- .header .vector-brand-wrap{grid-column:1;grid-row:1;min-width:0;margin-left:16px}
+ .header .vector-brand-wrap{grid-column:1;grid-row:1;min-width:0;margin-left:32px}
  .brand{--brand-logo-width:82px}
  .header nav{grid-column:1/-1;grid-row:2;width:100%;margin:0;gap:14px;justify-content:space-between;overflow-x:auto;scrollbar-width:thin}
  .header nav a{font-size:12px;min-height:40px;display:flex;align-items:center;padding:8px 0;flex-shrink:0}
