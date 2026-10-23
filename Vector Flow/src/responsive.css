@@ -33,6 +33,7 @@ body{min-width:320px}
  .schedule-table{table-layout:auto}
  .form-actions,.schedule-footer,.modal-actions{flex-wrap:wrap}
  input,select,textarea{min-width:0;max-width:100%;font-size:16px}
+ .field input,.field select,.field textarea,.search input{font-size:16px}
  .search{min-width:0;width:100%;max-width:100%;flex-basis:100%}
  .table-tools>select{max-width:100%}
  .modal{padding:18px;max-height:calc(100dvh - 24px);width:calc(100vw - 24px)}

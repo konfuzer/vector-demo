@@ -68,7 +68,8 @@ body{min-width:320px}
  .pdf-page{min-height:180px}
  .pdf-pagination{flex-wrap:wrap;justify-content:center;gap:10px}
  .exhibit-filters{flex-wrap:wrap;overflow:visible}
- .catalog-tools select{flex:1 1 100%;width:100%;max-width:100%}
+ .catalog-tools select{flex:1 1 100%;width:100%;max-width:100%;font-size:16px}
+ .search input,.portfolio-tools>select{font-size:16px}
  .button{white-space:normal;min-height:44px;text-align:center}
  .local-note,.publication-note,.resource strong{overflow-wrap:anywhere}
 }

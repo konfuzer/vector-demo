@@ -4,6 +4,7 @@
     "path": "/",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты Вектора",
     "offenders": []
@@ -13,6 +14,7 @@
     "path": "/",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты Вектора",
     "offenders": []
@@ -22,6 +24,7 @@
     "path": "/",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты Вектора",
     "offenders": []
@@ -31,6 +34,7 @@
     "path": "/",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты Вектора",
     "offenders": []
@@ -40,6 +44,7 @@
     "path": "/",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты Вектора",
     "offenders": []
@@ -49,6 +54,7 @@
     "path": "/",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты Вектора",
     "offenders": []
@@ -58,6 +64,7 @@
     "path": "/",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты Вектора",
     "offenders": []
@@ -67,6 +74,7 @@
     "path": "/",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты Вектора",
     "offenders": []
@@ -76,6 +84,7 @@
     "path": "/",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты Вектора",
     "offenders": []
@@ -85,6 +94,7 @@
     "path": "/",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты Вектора",
     "offenders": []
@@ -94,6 +104,7 @@
     "path": "/",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты Вектора",
     "offenders": []
@@ -103,6 +114,7 @@
     "path": "/",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты Вектора",
     "offenders": []
@@ -112,6 +124,7 @@
     "path": "/#world",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой мир",
     "offenders": []
@@ -121,6 +134,7 @@
     "path": "/#portfolio",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -130,6 +144,7 @@
     "path": "/#school",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты школы",
     "offenders": []
@@ -139,6 +154,7 @@
     "path": "/#exhibition",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школьная выставка",
     "offenders": []
@@ -148,6 +164,7 @@
     "path": "/#add",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добавить работу",
     "offenders": []
@@ -157,6 +174,7 @@
     "path": "/#work/history",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -166,6 +184,7 @@
     "path": "/#work/prism",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Свет и призма",
     "offenders": []
@@ -175,6 +194,7 @@
     "path": "/#work/site",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой первый сайт",
     "offenders": []
@@ -184,6 +204,7 @@
     "path": "/#edit/prism",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Редактировать работу",
     "offenders": []
@@ -193,6 +214,7 @@
     "path": "/#show",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -202,6 +224,7 @@
     "path": "/#show/history",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -211,6 +234,7 @@
     "path": "/#school/book-site",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Сайт о любимой книге",
     "offenders": []
@@ -220,6 +244,7 @@
     "path": "/#exhibition/bridge",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроен мост",
     "offenders": []
@@ -229,6 +254,7 @@
     "path": "/#world",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой мир",
     "offenders": []
@@ -238,6 +264,7 @@
     "path": "/#portfolio",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -247,6 +274,7 @@
     "path": "/#school",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты школы",
     "offenders": []
@@ -256,6 +284,7 @@
     "path": "/#exhibition",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школьная выставка",
     "offenders": []
@@ -265,6 +294,7 @@
     "path": "/#add",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добавить работу",
     "offenders": []
@@ -274,6 +304,7 @@
     "path": "/#work/history",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -283,6 +314,7 @@
     "path": "/#work/prism",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Свет и призма",
     "offenders": []
@@ -292,6 +324,7 @@
     "path": "/#work/site",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой первый сайт",
     "offenders": []
@@ -301,6 +334,7 @@
     "path": "/#edit/prism",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Редактировать работу",
     "offenders": []
@@ -310,6 +344,7 @@
     "path": "/#show",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -319,6 +354,7 @@
     "path": "/#show/history",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -328,6 +364,7 @@
     "path": "/#school/book-site",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Сайт о любимой книге",
     "offenders": []
@@ -337,6 +374,7 @@
     "path": "/#exhibition/bridge",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроен мост",
     "offenders": []
@@ -346,6 +384,7 @@
     "path": "/#world",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой мир",
     "offenders": []
@@ -355,6 +394,7 @@
     "path": "/#portfolio",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -364,6 +404,7 @@
     "path": "/#school",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты школы",
     "offenders": []
@@ -373,6 +414,7 @@
     "path": "/#exhibition",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школьная выставка",
     "offenders": []
@@ -382,6 +424,7 @@
     "path": "/#add",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добавить работу",
     "offenders": []
@@ -391,6 +434,7 @@
     "path": "/#work/history",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -400,6 +444,7 @@
     "path": "/#work/prism",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Свет и призма",
     "offenders": []
@@ -409,6 +454,7 @@
     "path": "/#work/site",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой первый сайт",
     "offenders": []
@@ -418,6 +464,7 @@
     "path": "/#edit/prism",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Редактировать работу",
     "offenders": []
@@ -427,6 +474,7 @@
     "path": "/#show",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -436,6 +484,7 @@
     "path": "/#show/history",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -445,6 +494,7 @@
     "path": "/#school/book-site",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Сайт о любимой книге",
     "offenders": []
@@ -454,6 +504,7 @@
     "path": "/#exhibition/bridge",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроен мост",
     "offenders": []
@@ -463,6 +514,7 @@
     "path": "/#world",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой мир",
     "offenders": []
@@ -472,6 +524,7 @@
     "path": "/#portfolio",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -481,6 +534,7 @@
     "path": "/#school",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты школы",
     "offenders": []
@@ -490,6 +544,7 @@
     "path": "/#exhibition",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школьная выставка",
     "offenders": []
@@ -499,6 +554,7 @@
     "path": "/#add",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добавить работу",
     "offenders": []
@@ -508,6 +564,7 @@
     "path": "/#work/history",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -517,6 +574,7 @@
     "path": "/#work/prism",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Свет и призма",
     "offenders": []
@@ -526,6 +584,7 @@
     "path": "/#work/site",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой первый сайт",
     "offenders": []
@@ -535,6 +594,7 @@
     "path": "/#edit/prism",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Редактировать работу",
     "offenders": []
@@ -544,6 +604,7 @@
     "path": "/#show",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -553,6 +614,7 @@
     "path": "/#show/history",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -562,6 +624,7 @@
     "path": "/#school/book-site",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Сайт о любимой книге",
     "offenders": []
@@ -571,6 +634,7 @@
     "path": "/#exhibition/bridge",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроен мост",
     "offenders": []
@@ -580,6 +644,7 @@
     "path": "/#world",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой мир",
     "offenders": []
@@ -589,6 +654,7 @@
     "path": "/#portfolio",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -598,6 +664,7 @@
     "path": "/#school",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты школы",
     "offenders": []
@@ -607,6 +674,7 @@
     "path": "/#exhibition",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школьная выставка",
     "offenders": []
@@ -616,6 +684,7 @@
     "path": "/#add",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добавить работу",
     "offenders": []
@@ -625,6 +694,7 @@
     "path": "/#work/history",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -634,6 +704,7 @@
     "path": "/#work/prism",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Свет и призма",
     "offenders": []
@@ -643,6 +714,7 @@
     "path": "/#work/site",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой первый сайт",
     "offenders": []
@@ -652,6 +724,7 @@
     "path": "/#edit/prism",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Редактировать работу",
     "offenders": []
@@ -661,6 +734,7 @@
     "path": "/#show",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -670,6 +744,7 @@
     "path": "/#show/history",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -679,6 +754,7 @@
     "path": "/#school/book-site",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Сайт о любимой книге",
     "offenders": []
@@ -688,6 +764,7 @@
     "path": "/#exhibition/bridge",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроен мост",
     "offenders": []
@@ -697,6 +774,7 @@
     "path": "/#world",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой мир",
     "offenders": []
@@ -706,6 +784,7 @@
     "path": "/#portfolio",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -715,6 +794,7 @@
     "path": "/#school",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты школы",
     "offenders": []
@@ -724,6 +804,7 @@
     "path": "/#exhibition",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школьная выставка",
     "offenders": []
@@ -733,6 +814,7 @@
     "path": "/#add",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добавить работу",
     "offenders": []
@@ -742,6 +824,7 @@
     "path": "/#work/history",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -751,6 +834,7 @@
     "path": "/#work/prism",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Свет и призма",
     "offenders": []
@@ -760,6 +844,7 @@
     "path": "/#work/site",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой первый сайт",
     "offenders": []
@@ -769,6 +854,7 @@
     "path": "/#edit/prism",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Редактировать работу",
     "offenders": []
@@ -778,6 +864,7 @@
     "path": "/#show",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -787,6 +874,7 @@
     "path": "/#show/history",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -796,6 +884,7 @@
     "path": "/#school/book-site",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Сайт о любимой книге",
     "offenders": []
@@ -805,6 +894,7 @@
     "path": "/#exhibition/bridge",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроен мост",
     "offenders": []
@@ -814,6 +904,7 @@
     "path": "/#world",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой мир",
     "offenders": []
@@ -823,6 +914,7 @@
     "path": "/#portfolio",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -832,6 +924,7 @@
     "path": "/#school",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты школы",
     "offenders": []
@@ -841,6 +934,7 @@
     "path": "/#exhibition",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школьная выставка",
     "offenders": []
@@ -850,6 +944,7 @@
     "path": "/#add",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добавить работу",
     "offenders": []
@@ -859,6 +954,7 @@
     "path": "/#work/history",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -868,6 +964,7 @@
     "path": "/#work/prism",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Свет и призма",
     "offenders": []
@@ -877,6 +974,7 @@
     "path": "/#work/site",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой первый сайт",
     "offenders": []
@@ -886,6 +984,7 @@
     "path": "/#edit/prism",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Редактировать работу",
     "offenders": []
@@ -895,6 +994,7 @@
     "path": "/#show",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -904,6 +1004,7 @@
     "path": "/#show/history",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -913,6 +1014,7 @@
     "path": "/#school/book-site",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Сайт о любимой книге",
     "offenders": []
@@ -922,6 +1024,7 @@
     "path": "/#exhibition/bridge",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроен мост",
     "offenders": []
@@ -931,6 +1034,7 @@
     "path": "/#world",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой мир",
     "offenders": []
@@ -940,6 +1044,7 @@
     "path": "/#portfolio",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -949,6 +1054,7 @@
     "path": "/#school",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты школы",
     "offenders": []
@@ -958,6 +1064,7 @@
     "path": "/#exhibition",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школьная выставка",
     "offenders": []
@@ -967,6 +1074,7 @@
     "path": "/#add",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добавить работу",
     "offenders": []
@@ -976,6 +1084,7 @@
     "path": "/#work/history",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -985,6 +1094,7 @@
     "path": "/#work/prism",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Свет и призма",
     "offenders": []
@@ -994,6 +1104,7 @@
     "path": "/#work/site",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой первый сайт",
     "offenders": []
@@ -1003,6 +1114,7 @@
     "path": "/#edit/prism",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Редактировать работу",
     "offenders": []
@@ -1012,6 +1124,7 @@
     "path": "/#show",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -1021,6 +1134,7 @@
     "path": "/#show/history",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -1030,6 +1144,7 @@
     "path": "/#school/book-site",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Сайт о любимой книге",
     "offenders": []
@@ -1039,6 +1154,7 @@
     "path": "/#exhibition/bridge",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроен мост",
     "offenders": []
@@ -1048,6 +1164,7 @@
     "path": "/#world",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой мир",
     "offenders": []
@@ -1057,6 +1174,7 @@
     "path": "/#portfolio",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -1066,6 +1184,7 @@
     "path": "/#school",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты школы",
     "offenders": []
@@ -1075,6 +1194,7 @@
     "path": "/#exhibition",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школьная выставка",
     "offenders": []
@@ -1084,6 +1204,7 @@
     "path": "/#add",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добавить работу",
     "offenders": []
@@ -1093,6 +1214,7 @@
     "path": "/#work/history",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -1102,6 +1224,7 @@
     "path": "/#work/prism",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Свет и призма",
     "offenders": []
@@ -1111,6 +1234,7 @@
     "path": "/#work/site",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой первый сайт",
     "offenders": []
@@ -1120,6 +1244,7 @@
     "path": "/#edit/prism",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Редактировать работу",
     "offenders": []
@@ -1129,6 +1254,7 @@
     "path": "/#show",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -1138,6 +1264,7 @@
     "path": "/#show/history",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -1147,6 +1274,7 @@
     "path": "/#school/book-site",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Сайт о любимой книге",
     "offenders": []
@@ -1156,6 +1284,7 @@
     "path": "/#exhibition/bridge",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроен мост",
     "offenders": []
@@ -1165,6 +1294,7 @@
     "path": "/#world",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой мир",
     "offenders": []
@@ -1174,6 +1304,7 @@
     "path": "/#portfolio",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -1183,6 +1314,7 @@
     "path": "/#school",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты школы",
     "offenders": []
@@ -1192,6 +1324,7 @@
     "path": "/#exhibition",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школьная выставка",
     "offenders": []
@@ -1201,6 +1334,7 @@
     "path": "/#add",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добавить работу",
     "offenders": []
@@ -1210,6 +1344,7 @@
     "path": "/#work/history",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -1219,6 +1354,7 @@
     "path": "/#work/prism",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Свет и призма",
     "offenders": []
@@ -1228,6 +1364,7 @@
     "path": "/#work/site",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой первый сайт",
     "offenders": []
@@ -1237,6 +1374,7 @@
     "path": "/#edit/prism",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Редактировать работу",
     "offenders": []
@@ -1246,6 +1384,7 @@
     "path": "/#show",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -1255,6 +1394,7 @@
     "path": "/#show/history",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -1264,6 +1404,7 @@
     "path": "/#school/book-site",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Сайт о любимой книге",
     "offenders": []
@@ -1273,6 +1414,7 @@
     "path": "/#exhibition/bridge",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроен мост",
     "offenders": []
@@ -1282,6 +1424,7 @@
     "path": "/#world",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой мир",
     "offenders": []
@@ -1291,6 +1434,7 @@
     "path": "/#portfolio",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -1300,6 +1444,7 @@
     "path": "/#school",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты школы",
     "offenders": []
@@ -1309,6 +1454,7 @@
     "path": "/#exhibition",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школьная выставка",
     "offenders": []
@@ -1318,6 +1464,7 @@
     "path": "/#add",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добавить работу",
     "offenders": []
@@ -1327,6 +1474,7 @@
     "path": "/#work/history",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -1336,6 +1484,7 @@
     "path": "/#work/prism",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Свет и призма",
     "offenders": []
@@ -1345,6 +1494,7 @@
     "path": "/#work/site",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой первый сайт",
     "offenders": []
@@ -1354,6 +1504,7 @@
     "path": "/#edit/prism",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Редактировать работу",
     "offenders": []
@@ -1363,6 +1514,7 @@
     "path": "/#show",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -1372,6 +1524,7 @@
     "path": "/#show/history",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -1381,6 +1534,7 @@
     "path": "/#school/book-site",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Сайт о любимой книге",
     "offenders": []
@@ -1390,6 +1544,7 @@
     "path": "/#exhibition/bridge",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроен мост",
     "offenders": []
@@ -1399,6 +1554,7 @@
     "path": "/#world",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой мир",
     "offenders": []
@@ -1408,6 +1564,7 @@
     "path": "/#portfolio",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -1417,6 +1574,7 @@
     "path": "/#school",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Проекты школы",
     "offenders": []
@@ -1426,6 +1584,7 @@
     "path": "/#exhibition",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школьная выставка",
     "offenders": []
@@ -1435,6 +1594,7 @@
     "path": "/#add",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добавить работу",
     "offenders": []
@@ -1444,6 +1604,7 @@
     "path": "/#work/history",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -1453,6 +1614,7 @@
     "path": "/#work/prism",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Свет и призма",
     "offenders": []
@@ -1462,6 +1624,7 @@
     "path": "/#work/site",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мой первый сайт",
     "offenders": []
@@ -1471,6 +1634,7 @@
     "path": "/#edit/prism",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Редактировать работу",
     "offenders": []
@@ -1480,6 +1644,7 @@
     "path": "/#show",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Портфолио · Иван",
     "offenders": []
@@ -1489,6 +1654,7 @@
     "path": "/#show/history",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Древний Египет",
     "offenders": []
@@ -1498,6 +1664,7 @@
     "path": "/#school/book-site",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Сайт о любимой книге",
     "offenders": []
@@ -1507,6 +1674,7 @@
     "path": "/#exhibition/bridge",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроен мост",
     "offenders": []
@@ -1516,6 +1684,7 @@
     "path": "/",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Занятия для детей",
     "offenders": []
@@ -1525,6 +1694,7 @@
     "path": "/#/program/leadership",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Академия лидерства",
     "offenders": []
@@ -1534,6 +1704,7 @@
     "path": "/#/apply",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Помогите подобрать занятие",
     "offenders": []
@@ -1543,6 +1714,7 @@
     "path": "/#/requests",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мои обращения",
     "offenders": []
@@ -1552,6 +1724,7 @@
     "path": "/#/about",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроена запись",
     "offenders": []
@@ -1561,6 +1734,7 @@
     "path": "/#/admin/requests",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Обращения и запись",
     "offenders": []
@@ -1570,6 +1744,7 @@
     "path": "/#/admin/groups",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Группы и места",
     "offenders": []
@@ -1579,6 +1754,7 @@
     "path": "/#/admin/programs",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Программы Club",
     "offenders": []
@@ -1588,6 +1764,7 @@
     "path": "/#/admin/insights",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Итоги и сценарий",
     "offenders": []
@@ -1597,6 +1774,7 @@
     "path": "/#/admin/settings",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Режим работы",
     "offenders": []
@@ -1606,6 +1784,7 @@
     "path": "/#/request/C-033",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Статус обращения",
     "offenders": []
@@ -1615,6 +1794,7 @@
     "path": "/",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Занятия для детей",
     "offenders": []
@@ -1624,6 +1804,7 @@
     "path": "/#/program/leadership",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Академия лидерства",
     "offenders": []
@@ -1633,6 +1814,7 @@
     "path": "/#/apply",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Помогите подобрать занятие",
     "offenders": []
@@ -1642,6 +1824,7 @@
     "path": "/#/requests",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мои обращения",
     "offenders": []
@@ -1651,6 +1834,7 @@
     "path": "/#/about",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроена запись",
     "offenders": []
@@ -1660,6 +1844,7 @@
     "path": "/#/admin/requests",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Обращения и запись",
     "offenders": []
@@ -1669,6 +1854,7 @@
     "path": "/#/admin/groups",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Группы и места",
     "offenders": []
@@ -1678,6 +1864,7 @@
     "path": "/#/admin/programs",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Программы Club",
     "offenders": []
@@ -1687,6 +1874,7 @@
     "path": "/#/admin/insights",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Итоги и сценарий",
     "offenders": []
@@ -1696,6 +1884,7 @@
     "path": "/#/admin/settings",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Режим работы",
     "offenders": []
@@ -1705,6 +1894,7 @@
     "path": "/#/request/C-033",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Статус обращения",
     "offenders": []
@@ -1714,6 +1904,7 @@
     "path": "/",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Занятия для детей",
     "offenders": []
@@ -1723,6 +1914,7 @@
     "path": "/#/program/leadership",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Академия лидерства",
     "offenders": []
@@ -1732,6 +1924,7 @@
     "path": "/#/apply",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Помогите подобрать занятие",
     "offenders": []
@@ -1741,6 +1934,7 @@
     "path": "/#/requests",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мои обращения",
     "offenders": []
@@ -1750,6 +1944,7 @@
     "path": "/#/about",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроена запись",
     "offenders": []
@@ -1759,6 +1954,7 @@
     "path": "/#/admin/requests",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Обращения и запись",
     "offenders": []
@@ -1768,6 +1964,7 @@
     "path": "/#/admin/groups",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Группы и места",
     "offenders": []
@@ -1777,6 +1974,7 @@
     "path": "/#/admin/programs",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Программы Club",
     "offenders": []
@@ -1786,6 +1984,7 @@
     "path": "/#/admin/insights",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Итоги и сценарий",
     "offenders": []
@@ -1795,6 +1994,7 @@
     "path": "/#/admin/settings",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Режим работы",
     "offenders": []
@@ -1804,6 +2004,7 @@
     "path": "/#/request/C-033",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Статус обращения",
     "offenders": []
@@ -1813,6 +2014,7 @@
     "path": "/",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Занятия для детей",
     "offenders": []
@@ -1822,6 +2024,7 @@
     "path": "/#/program/leadership",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Академия лидерства",
     "offenders": []
@@ -1831,6 +2034,7 @@
     "path": "/#/apply",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Помогите подобрать занятие",
     "offenders": []
@@ -1840,6 +2044,7 @@
     "path": "/#/requests",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мои обращения",
     "offenders": []
@@ -1849,6 +2054,7 @@
     "path": "/#/about",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроена запись",
     "offenders": []
@@ -1858,6 +2064,7 @@
     "path": "/#/admin/requests",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Обращения и запись",
     "offenders": []
@@ -1867,6 +2074,7 @@
     "path": "/#/admin/groups",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Группы и места",
     "offenders": []
@@ -1876,6 +2084,7 @@
     "path": "/#/admin/programs",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Программы Club",
     "offenders": []
@@ -1885,6 +2094,7 @@
     "path": "/#/admin/insights",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Итоги и сценарий",
     "offenders": []
@@ -1894,6 +2104,7 @@
     "path": "/#/admin/settings",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Режим работы",
     "offenders": []
@@ -1903,6 +2114,7 @@
     "path": "/#/request/C-033",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Статус обращения",
     "offenders": []
@@ -1912,6 +2124,7 @@
     "path": "/",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Занятия для детей",
     "offenders": []
@@ -1921,6 +2134,7 @@
     "path": "/#/program/leadership",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Академия лидерства",
     "offenders": []
@@ -1930,6 +2144,7 @@
     "path": "/#/apply",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Помогите подобрать занятие",
     "offenders": []
@@ -1939,6 +2154,7 @@
     "path": "/#/requests",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мои обращения",
     "offenders": []
@@ -1948,6 +2164,7 @@
     "path": "/#/about",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроена запись",
     "offenders": []
@@ -1957,6 +2174,7 @@
     "path": "/#/admin/requests",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Обращения и запись",
     "offenders": []
@@ -1966,6 +2184,7 @@
     "path": "/#/admin/groups",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Группы и места",
     "offenders": []
@@ -1975,6 +2194,7 @@
     "path": "/#/admin/programs",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Программы Club",
     "offenders": []
@@ -1984,6 +2204,7 @@
     "path": "/#/admin/insights",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Итоги и сценарий",
     "offenders": []
@@ -1993,6 +2214,7 @@
     "path": "/#/admin/settings",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Режим работы",
     "offenders": []
@@ -2002,6 +2224,7 @@
     "path": "/#/request/C-033",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Статус обращения",
     "offenders": []
@@ -2011,6 +2234,7 @@
     "path": "/",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Занятия для детей",
     "offenders": []
@@ -2020,6 +2244,7 @@
     "path": "/#/program/leadership",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Академия лидерства",
     "offenders": []
@@ -2029,6 +2254,7 @@
     "path": "/#/apply",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Помогите подобрать занятие",
     "offenders": []
@@ -2038,6 +2264,7 @@
     "path": "/#/requests",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мои обращения",
     "offenders": []
@@ -2047,6 +2274,7 @@
     "path": "/#/about",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроена запись",
     "offenders": []
@@ -2056,6 +2284,7 @@
     "path": "/#/admin/requests",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Обращения и запись",
     "offenders": []
@@ -2065,6 +2294,7 @@
     "path": "/#/admin/groups",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Группы и места",
     "offenders": []
@@ -2074,6 +2304,7 @@
     "path": "/#/admin/programs",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Программы Club",
     "offenders": []
@@ -2083,6 +2314,7 @@
     "path": "/#/admin/insights",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Итоги и сценарий",
     "offenders": []
@@ -2092,6 +2324,7 @@
     "path": "/#/admin/settings",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Режим работы",
     "offenders": []
@@ -2101,6 +2334,7 @@
     "path": "/#/request/C-033",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Статус обращения",
     "offenders": []
@@ -2110,6 +2344,7 @@
     "path": "/",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Занятия для детей",
     "offenders": []
@@ -2119,6 +2354,7 @@
     "path": "/#/program/leadership",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Академия лидерства",
     "offenders": []
@@ -2128,6 +2364,7 @@
     "path": "/#/apply",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Помогите подобрать занятие",
     "offenders": []
@@ -2137,6 +2374,7 @@
     "path": "/#/requests",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мои обращения",
     "offenders": []
@@ -2146,6 +2384,7 @@
     "path": "/#/about",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроена запись",
     "offenders": []
@@ -2155,6 +2394,7 @@
     "path": "/#/admin/requests",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Обращения и запись",
     "offenders": []
@@ -2164,6 +2404,7 @@
     "path": "/#/admin/groups",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Группы и места",
     "offenders": []
@@ -2173,6 +2414,7 @@
     "path": "/#/admin/programs",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Программы Club",
     "offenders": []
@@ -2182,6 +2424,7 @@
     "path": "/#/admin/insights",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Итоги и сценарий",
     "offenders": []
@@ -2191,6 +2434,7 @@
     "path": "/#/admin/settings",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Режим работы",
     "offenders": []
@@ -2200,6 +2444,7 @@
     "path": "/#/request/C-033",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Статус обращения",
     "offenders": []
@@ -2209,6 +2454,7 @@
     "path": "/",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Занятия для детей",
     "offenders": []
@@ -2218,6 +2464,7 @@
     "path": "/#/program/leadership",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Академия лидерства",
     "offenders": []
@@ -2227,6 +2474,7 @@
     "path": "/#/apply",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Помогите подобрать занятие",
     "offenders": []
@@ -2236,6 +2484,7 @@
     "path": "/#/requests",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мои обращения",
     "offenders": []
@@ -2245,6 +2494,7 @@
     "path": "/#/about",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроена запись",
     "offenders": []
@@ -2254,6 +2504,7 @@
     "path": "/#/admin/requests",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Обращения и запись",
     "offenders": []
@@ -2263,6 +2514,7 @@
     "path": "/#/admin/groups",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Группы и места",
     "offenders": []
@@ -2272,6 +2524,7 @@
     "path": "/#/admin/programs",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Программы Club",
     "offenders": []
@@ -2281,6 +2534,7 @@
     "path": "/#/admin/insights",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Итоги и сценарий",
     "offenders": []
@@ -2290,6 +2544,7 @@
     "path": "/#/admin/settings",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Режим работы",
     "offenders": []
@@ -2299,6 +2554,7 @@
     "path": "/#/request/C-033",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Статус обращения",
     "offenders": []
@@ -2308,6 +2564,7 @@
     "path": "/",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Занятия для детей",
     "offenders": []
@@ -2317,6 +2574,7 @@
     "path": "/#/program/leadership",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Академия лидерства",
     "offenders": []
@@ -2326,6 +2584,7 @@
     "path": "/#/apply",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Помогите подобрать занятие",
     "offenders": []
@@ -2335,6 +2594,7 @@
     "path": "/#/requests",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мои обращения",
     "offenders": []
@@ -2344,6 +2604,7 @@
     "path": "/#/about",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроена запись",
     "offenders": []
@@ -2353,6 +2614,7 @@
     "path": "/#/admin/requests",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Обращения и запись",
     "offenders": []
@@ -2362,6 +2624,7 @@
     "path": "/#/admin/groups",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Группы и места",
     "offenders": []
@@ -2371,6 +2634,7 @@
     "path": "/#/admin/programs",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Программы Club",
     "offenders": []
@@ -2380,6 +2644,7 @@
     "path": "/#/admin/insights",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Итоги и сценарий",
     "offenders": []
@@ -2389,6 +2654,7 @@
     "path": "/#/admin/settings",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Режим работы",
     "offenders": []
@@ -2398,6 +2664,7 @@
     "path": "/#/request/C-033",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Статус обращения",
     "offenders": []
@@ -2407,6 +2674,7 @@
     "path": "/",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Занятия для детей",
     "offenders": []
@@ -2416,6 +2684,7 @@
     "path": "/#/program/leadership",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Академия лидерства",
     "offenders": []
@@ -2425,6 +2694,7 @@
     "path": "/#/apply",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Помогите подобрать занятие",
     "offenders": []
@@ -2434,6 +2704,7 @@
     "path": "/#/requests",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мои обращения",
     "offenders": []
@@ -2443,6 +2714,7 @@
     "path": "/#/about",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроена запись",
     "offenders": []
@@ -2452,6 +2724,7 @@
     "path": "/#/admin/requests",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Обращения и запись",
     "offenders": []
@@ -2461,6 +2734,7 @@
     "path": "/#/admin/groups",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Группы и места",
     "offenders": []
@@ -2470,6 +2744,7 @@
     "path": "/#/admin/programs",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Программы Club",
     "offenders": []
@@ -2479,6 +2754,7 @@
     "path": "/#/admin/insights",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Итоги и сценарий",
     "offenders": []
@@ -2488,6 +2764,7 @@
     "path": "/#/admin/settings",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Режим работы",
     "offenders": []
@@ -2497,6 +2774,7 @@
     "path": "/#/request/C-033",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Статус обращения",
     "offenders": []
@@ -2506,6 +2784,7 @@
     "path": "/",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Занятия для детей",
     "offenders": []
@@ -2515,6 +2794,7 @@
     "path": "/#/program/leadership",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Академия лидерства",
     "offenders": []
@@ -2524,6 +2804,7 @@
     "path": "/#/apply",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Помогите подобрать занятие",
     "offenders": []
@@ -2533,6 +2814,7 @@
     "path": "/#/requests",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мои обращения",
     "offenders": []
@@ -2542,6 +2824,7 @@
     "path": "/#/about",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроена запись",
     "offenders": []
@@ -2551,6 +2834,7 @@
     "path": "/#/admin/requests",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Обращения и запись",
     "offenders": []
@@ -2560,6 +2844,7 @@
     "path": "/#/admin/groups",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Группы и места",
     "offenders": []
@@ -2569,6 +2854,7 @@
     "path": "/#/admin/programs",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Программы Club",
     "offenders": []
@@ -2578,6 +2864,7 @@
     "path": "/#/admin/insights",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Итоги и сценарий",
     "offenders": []
@@ -2587,6 +2874,7 @@
     "path": "/#/admin/settings",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Режим работы",
     "offenders": []
@@ -2596,6 +2884,7 @@
     "path": "/#/request/C-033",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Статус обращения",
     "offenders": []
@@ -2605,6 +2894,7 @@
     "path": "/",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Занятия для детей",
     "offenders": []
@@ -2614,6 +2904,7 @@
     "path": "/#/program/leadership",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Академия лидерства",
     "offenders": []
@@ -2623,6 +2914,7 @@
     "path": "/#/apply",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Помогите подобрать занятие",
     "offenders": []
@@ -2632,6 +2924,7 @@
     "path": "/#/requests",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мои обращения",
     "offenders": []
@@ -2641,6 +2934,7 @@
     "path": "/#/about",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Как устроена запись",
     "offenders": []
@@ -2650,6 +2944,7 @@
     "path": "/#/admin/requests",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Обращения и запись",
     "offenders": []
@@ -2659,6 +2954,7 @@
     "path": "/#/admin/groups",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Группы и места",
     "offenders": []
@@ -2668,6 +2964,7 @@
     "path": "/#/admin/programs",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Программы Club",
     "offenders": []
@@ -2677,6 +2974,7 @@
     "path": "/#/admin/insights",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Итоги и сценарий",
     "offenders": []
@@ -2686,6 +2984,7 @@
     "path": "/#/admin/settings",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Режим работы",
     "offenders": []
@@ -2695,6 +2994,7 @@
     "path": "/#/request/C-033",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Статус обращения",
     "offenders": []
@@ -2704,6 +3004,7 @@
     "path": "/#/founder/overview",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школа в цифрах",
     "offenders": []
@@ -2713,6 +3014,7 @@
     "path": "/#/founder/requests",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -2722,6 +3024,7 @@
     "path": "/#/founder/students",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Ученики",
     "offenders": []
@@ -2731,6 +3034,7 @@
     "path": "/#/founder/payments",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -2740,6 +3044,7 @@
     "path": "/#/founder/economy",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Экономика школы",
     "offenders": []
@@ -2749,6 +3054,7 @@
     "path": "/#/admin/overview",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добрый день, Мария",
     "offenders": []
@@ -2758,6 +3064,7 @@
     "path": "/#/admin/requests",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -2767,6 +3074,7 @@
     "path": "/#/admin/students?id=У-032",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мария Орлова",
     "offenders": []
@@ -2776,6 +3084,7 @@
     "path": "/#/admin/payments",
     "width": 3840,
     "height": 2160,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -2785,6 +3094,7 @@
     "path": "/#/founder/overview",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школа в цифрах",
     "offenders": []
@@ -2794,6 +3104,7 @@
     "path": "/#/founder/requests",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -2803,6 +3114,7 @@
     "path": "/#/founder/students",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Ученики",
     "offenders": []
@@ -2812,6 +3124,7 @@
     "path": "/#/founder/payments",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -2821,6 +3134,7 @@
     "path": "/#/founder/economy",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Экономика школы",
     "offenders": []
@@ -2830,6 +3144,7 @@
     "path": "/#/admin/overview",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добрый день, Мария",
     "offenders": []
@@ -2839,6 +3154,7 @@
     "path": "/#/admin/requests",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -2848,6 +3164,7 @@
     "path": "/#/admin/students?id=У-032",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мария Орлова",
     "offenders": []
@@ -2857,6 +3174,7 @@
     "path": "/#/admin/payments",
     "width": 1920,
     "height": 1200,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -2866,6 +3184,7 @@
     "path": "/#/founder/overview",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школа в цифрах",
     "offenders": []
@@ -2875,6 +3194,7 @@
     "path": "/#/founder/requests",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -2884,6 +3204,7 @@
     "path": "/#/founder/students",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Ученики",
     "offenders": []
@@ -2893,6 +3214,7 @@
     "path": "/#/founder/payments",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -2902,6 +3224,7 @@
     "path": "/#/founder/economy",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Экономика школы",
     "offenders": []
@@ -2911,6 +3234,7 @@
     "path": "/#/admin/overview",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добрый день, Мария",
     "offenders": []
@@ -2920,6 +3244,7 @@
     "path": "/#/admin/requests",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -2929,6 +3254,7 @@
     "path": "/#/admin/students?id=У-032",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мария Орлова",
     "offenders": []
@@ -2938,6 +3264,7 @@
     "path": "/#/admin/payments",
     "width": 1366,
     "height": 768,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -2947,6 +3274,7 @@
     "path": "/#/founder/overview",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школа в цифрах",
     "offenders": []
@@ -2956,6 +3284,7 @@
     "path": "/#/founder/requests",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": [
@@ -2996,6 +3325,7 @@
     "path": "/#/founder/students",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Ученики",
     "offenders": [
@@ -3036,6 +3366,7 @@
     "path": "/#/founder/payments",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": [
@@ -3076,6 +3407,7 @@
     "path": "/#/founder/economy",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Экономика школы",
     "offenders": [
@@ -3116,6 +3448,7 @@
     "path": "/#/admin/overview",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добрый день, Мария",
     "offenders": []
@@ -3125,6 +3458,7 @@
     "path": "/#/admin/requests",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": [
@@ -3165,6 +3499,7 @@
     "path": "/#/admin/students?id=У-032",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мария Орлова",
     "offenders": [
@@ -3205,6 +3540,7 @@
     "path": "/#/admin/payments",
     "width": 412,
     "height": 915,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": [
@@ -3245,6 +3581,7 @@
     "path": "/#/founder/overview",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школа в цифрах",
     "offenders": []
@@ -3254,6 +3591,7 @@
     "path": "/#/founder/requests",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -3263,6 +3601,7 @@
     "path": "/#/founder/students",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Ученики",
     "offenders": []
@@ -3272,6 +3611,7 @@
     "path": "/#/founder/payments",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -3281,6 +3621,7 @@
     "path": "/#/founder/economy",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Экономика школы",
     "offenders": []
@@ -3290,6 +3631,7 @@
     "path": "/#/admin/overview",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добрый день, Мария",
     "offenders": []
@@ -3299,6 +3641,7 @@
     "path": "/#/admin/requests",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -3308,6 +3651,7 @@
     "path": "/#/admin/students?id=У-032",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мария Орлова",
     "offenders": []
@@ -3317,6 +3661,7 @@
     "path": "/#/admin/payments",
     "width": 3440,
     "height": 1440,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -3326,6 +3671,7 @@
     "path": "/#/founder/overview",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школа в цифрах",
     "offenders": []
@@ -3335,6 +3681,7 @@
     "path": "/#/founder/requests",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -3344,6 +3691,7 @@
     "path": "/#/founder/students",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Ученики",
     "offenders": []
@@ -3353,6 +3701,7 @@
     "path": "/#/founder/payments",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -3362,6 +3711,7 @@
     "path": "/#/founder/economy",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Экономика школы",
     "offenders": []
@@ -3371,6 +3721,7 @@
     "path": "/#/admin/overview",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добрый день, Мария",
     "offenders": []
@@ -3380,6 +3731,7 @@
     "path": "/#/admin/requests",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -3389,6 +3741,7 @@
     "path": "/#/admin/students?id=У-032",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мария Орлова",
     "offenders": []
@@ -3398,6 +3751,7 @@
     "path": "/#/admin/payments",
     "width": 2560,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -3407,6 +3761,7 @@
     "path": "/#/founder/overview",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школа в цифрах",
     "offenders": []
@@ -3416,6 +3771,7 @@
     "path": "/#/founder/requests",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -3425,6 +3781,7 @@
     "path": "/#/founder/students",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Ученики",
     "offenders": []
@@ -3434,6 +3791,7 @@
     "path": "/#/founder/payments",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -3443,6 +3801,7 @@
     "path": "/#/founder/economy",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Экономика школы",
     "offenders": []
@@ -3452,6 +3811,7 @@
     "path": "/#/admin/overview",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добрый день, Мария",
     "offenders": []
@@ -3461,6 +3821,7 @@
     "path": "/#/admin/requests",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -3470,6 +3831,7 @@
     "path": "/#/admin/students?id=У-032",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мария Орлова",
     "offenders": []
@@ -3479,6 +3841,7 @@
     "path": "/#/admin/payments",
     "width": 1920,
     "height": 1080,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -3488,6 +3851,7 @@
     "path": "/#/founder/overview",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школа в цифрах",
     "offenders": []
@@ -3497,6 +3861,7 @@
     "path": "/#/founder/requests",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -3506,6 +3871,7 @@
     "path": "/#/founder/students",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Ученики",
     "offenders": []
@@ -3515,6 +3881,7 @@
     "path": "/#/founder/payments",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -3524,6 +3891,7 @@
     "path": "/#/founder/economy",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Экономика школы",
     "offenders": []
@@ -3533,6 +3901,7 @@
     "path": "/#/admin/overview",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добрый день, Мария",
     "offenders": []
@@ -3542,6 +3911,7 @@
     "path": "/#/admin/requests",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -3551,6 +3921,7 @@
     "path": "/#/admin/students?id=У-032",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мария Орлова",
     "offenders": []
@@ -3560,6 +3931,7 @@
     "path": "/#/admin/payments",
     "width": 1280,
     "height": 800,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -3569,6 +3941,7 @@
     "path": "/#/founder/overview",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школа в цифрах",
     "offenders": []
@@ -3578,6 +3951,7 @@
     "path": "/#/founder/requests",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -3587,6 +3961,7 @@
     "path": "/#/founder/students",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Ученики",
     "offenders": []
@@ -3596,6 +3971,7 @@
     "path": "/#/founder/payments",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -3605,6 +3981,7 @@
     "path": "/#/founder/economy",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Экономика школы",
     "offenders": []
@@ -3614,6 +3991,7 @@
     "path": "/#/admin/overview",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добрый день, Мария",
     "offenders": []
@@ -3623,6 +4001,7 @@
     "path": "/#/admin/requests",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -3632,6 +4011,7 @@
     "path": "/#/admin/students?id=У-032",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мария Орлова",
     "offenders": []
@@ -3641,6 +4021,7 @@
     "path": "/#/admin/payments",
     "width": 768,
     "height": 1024,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -3650,6 +4031,7 @@
     "path": "/#/founder/overview",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школа в цифрах",
     "offenders": []
@@ -3659,6 +4041,7 @@
     "path": "/#/founder/requests",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": [
@@ -3699,6 +4082,7 @@
     "path": "/#/founder/students",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Ученики",
     "offenders": [
@@ -3739,6 +4123,7 @@
     "path": "/#/founder/payments",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": [
@@ -3779,6 +4164,7 @@
     "path": "/#/founder/economy",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Экономика школы",
     "offenders": [
@@ -3819,6 +4205,7 @@
     "path": "/#/admin/overview",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добрый день, Мария",
     "offenders": []
@@ -3828,6 +4215,7 @@
     "path": "/#/admin/requests",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": [
@@ -3868,6 +4256,7 @@
     "path": "/#/admin/students?id=У-032",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мария Орлова",
     "offenders": [
@@ -3908,6 +4297,7 @@
     "path": "/#/admin/payments",
     "width": 390,
     "height": 844,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": [
@@ -3948,6 +4338,7 @@
     "path": "/#/founder/overview",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школа в цифрах",
     "offenders": [
@@ -3963,6 +4354,7 @@
     "path": "/#/founder/requests",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": [
@@ -4003,6 +4395,7 @@
     "path": "/#/founder/students",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Ученики",
     "offenders": [
@@ -4043,6 +4436,7 @@
     "path": "/#/founder/payments",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": [
@@ -4083,6 +4477,7 @@
     "path": "/#/founder/economy",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Экономика школы",
     "offenders": [
@@ -4123,6 +4518,7 @@
     "path": "/#/admin/overview",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добрый день, Мария",
     "offenders": []
@@ -4132,6 +4528,7 @@
     "path": "/#/admin/requests",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": [
@@ -4172,6 +4569,7 @@
     "path": "/#/admin/students?id=У-032",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мария Орлова",
     "offenders": [
@@ -4212,6 +4610,7 @@
     "path": "/#/admin/payments",
     "width": 320,
     "height": 568,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": [
@@ -4252,6 +4651,7 @@
     "path": "/#/founder/overview",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Школа в цифрах",
     "offenders": []
@@ -4261,6 +4661,7 @@
     "path": "/#/founder/requests",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -4270,6 +4671,7 @@
     "path": "/#/founder/students",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Ученики",
     "offenders": []
@@ -4279,6 +4681,7 @@
     "path": "/#/founder/payments",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
@@ -4288,6 +4691,7 @@
     "path": "/#/founder/economy",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Экономика школы",
     "offenders": []
@@ -4297,6 +4701,7 @@
     "path": "/#/admin/overview",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Добрый день, Мария",
     "offenders": []
@@ -4306,6 +4711,7 @@
     "path": "/#/admin/requests",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Заявки",
     "offenders": []
@@ -4315,6 +4721,7 @@
     "path": "/#/admin/students?id=У-032",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Мария Орлова",
     "offenders": []
@@ -4324,6 +4731,7 @@
     "path": "/#/admin/payments",
     "width": 844,
     "height": 390,
+    "cardOverflow": 0,
     "overflow": 0,
     "title": "Оплата",
     "offenders": []
